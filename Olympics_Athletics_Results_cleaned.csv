@@ -1,0 +1,1809 @@
+,Event,Year,Gender,Position,Medal,Athlete,NOC,Time,Distance
+0,100 metres,1896,M,1,Gold,Tom Burke,USA,12.0,NaN
+1,100 metres,1896,M,2,Silver,Fritz Hofmann,GER,NaN,NaN
+2,100 metres,1896,M,3,Bronze,Alajos Szokoly,HUN,NaN,NaN
+3,100 metres,1896,M,3,Bronze,Frank Lane,USA,NaN,NaN
+4,400 metres,1896,M,1,Gold,Tom Burke,USA,54.2,NaN
+5,400 metres,1896,M,2,Silver,Herbert Jamison,USA,55.2,NaN
+6,400 metres,1896,M,3,Bronze,Charles Gmelin,GBR,NaN,NaN
+7,800 metres,1896,M,1,Gold,Teddy Flack,AUS,131.0,NaN
+8,800 metres,1896,M,2,Silver,NÃ¡ndor DÃ¡ni,HUN,131.8,NaN
+9,800 metres,1896,M,3,Bronze,Dimitrios Golemis,GRE,NaN,NaN
+10,"1,500 metres",1896,M,1,Gold,Teddy Flack,AUS,273.2,NaN
+11,"1,500 metres",1896,M,2,Silver,Arthur C. Blake,USA,NaN,NaN
+12,"1,500 metres",1896,M,3,Bronze,Albin Lermusiaux,FRA,NaN,NaN
+13,Marathon,1896,M,1,Gold,Spyros Louis,GRE,10730.0,NaN
+14,Marathon,1896,M,2,Silver,Kharilaos Vasilakos,GRE,11163.0,NaN
+15,Marathon,1896,M,3,Bronze,Gyula Kellner,HUN,11195.0,NaN
+16,Long Jump,1896,M,1,Gold,Ellery Clark,USA,NaN,6.35
+17,Long Jump,1896,M,2,Silver,Bob Garrett,USA,NaN,6.00
+18,Long Jump,1896,M,3,Bronze,James B. Connolly,USA,NaN,5.84
+19,Triple Jump,1896,M,1,Gold,James B. Connolly,USA,NaN,13.71
+20,Triple Jump,1896,M,2,Silver,Alexandre TuffÃ¨ri,FRA,NaN,12.70
+21,Triple Jump,1896,M,3,Bronze,Ioannis Persakis,GRE,NaN,12.52
+22,Shot Put,1896,M,1,Gold,Bob Garrett,USA,NaN,11.22
+23,Shot Put,1896,M,2,Silver,Miltiadis Gouskos,GRE,NaN,11.03
+24,Shot Put,1896,M,3,Bronze,Georgios Papasideris,GRE,NaN,10.36
+25,Discus Throw,1896,M,1,Gold,Bob Garrett,USA,NaN,29.150
+26,Discus Throw,1896,M,2,Silver,Panagiotis Paraskevopoulos,GRE,NaN,28.955
+27,Discus Throw,1896,M,3,Bronze,Sotirios Versis,GRE,NaN,27.780
+28,100 metres,1900,M,1,Gold,Frank Jarvis,USA,11.0,NaN
+29,100 metres,1900,M,2,Silver,Walter Tewksbury,USA,NaN,NaN
+30,100 metres,1900,M,3,Bronze,Stan Rowley,AUS,NaN,NaN
+31,200 metres,1900,M,1,Gold,Walter Tewksbury,USA,22.2,NaN
+32,200 metres,1900,M,2,Silver,Norman Pritchard,IND,NaN,NaN
+33,200 metres,1900,M,3,Bronze,Stan Rowley,AUS,NaN,NaN
+34,400 metres,1900,M,1,Gold,Maxey Long,USA,49.4,NaN
+35,400 metres,1900,M,2,Silver,Bill Holland,USA,NaN,NaN
+36,400 metres,1900,M,3,Bronze,Ernst Schultz,DEN,NaN,NaN
+37,800 metres,1900,M,1,Gold,Alfred Tysoe,GBR,121.2,NaN
+38,800 metres,1900,M,2,Silver,John Cregan,USA,NaN,NaN
+39,800 metres,1900,M,3,Bronze,Dave Hall,USA,NaN,NaN
+40,"1,500 metres",1900,M,1,Gold,Charles Bennett,GBR,246.2,NaN
+41,"1,500 metres",1900,M,2,Silver,Henry Deloge,FRA,NaN,NaN
+42,"1,500 metres",1900,M,3,Bronze,John Bray,USA,NaN,NaN
+43,Marathon,1900,M,1,Gold,Michel ThÃ©ato,FRA,10785.0,NaN
+44,Marathon,1900,M,2,Silver,Ãmile Champion,FRA,11057.0,NaN
+45,Marathon,1900,M,3,Bronze,Ernst Fast,SWE,13034.0,NaN
+46,Long Jump,1900,M,1,Gold,Al Kraenzlein,USA,NaN,7.185
+47,Long Jump,1900,M,2,Silver,Meyer Prinstein,USA,NaN,7.175
+48,Long Jump,1900,M,3,Bronze,Pat Leahy,GBR,NaN,6.950
+49,Triple Jump,1900,M,1,Gold,Meyer Prinstein,USA,NaN,14.47
+50,Triple Jump,1900,M,2,Silver,James B. Connolly,USA,NaN,13.97
+51,Triple Jump,1900,M,3,Bronze,Lewis Sheldon,USA,NaN,13.64
+52,Shot Put,1900,M,1,Gold,Dick Sheldon,USA,NaN,14.10
+53,Shot Put,1900,M,2,Silver,Josiah McCracken,USA,NaN,NaN
+54,Shot Put,1900,M,3,Bronze,Bob Garrett,USA,NaN,NaN
+55,Discus Throw,1900,M,1,Gold,Rudolf Bauer,HUN,NaN,NaN
+56,Discus Throw,1900,M,2,Silver,FrantiÅ¡ek Janda-Suk,BOH,NaN,35.14
+57,Discus Throw,1900,M,3,Bronze,Dick Sheldon,USA,NaN,34.60
+58,Hammer Throw,1900,M,1,Gold,John Flanagan,USA,NaN,51.01
+59,Hammer Throw,1900,M,2,Silver,Truxtun Hare,USA,NaN,46.26
+60,Hammer Throw,1900,M,3,Bronze,Josiah McCracken,USA,NaN,43.58
+61,100 metres,1904,M,1,Gold,Archie Hahn,USA,11.0,NaN
+62,100 metres,1904,M,2,Silver,Nate Cartmell,USA,11.2,NaN
+63,100 metres,1904,M,3,Bronze,Bill Hogenson,USA,11.2,NaN
+64,200 metres,1904,M,1,Gold,Archie Hahn,USA,21.6,NaN
+65,200 metres,1904,M,2,Silver,Nate Cartmell,USA,21.9,NaN
+66,200 metres,1904,M,3,Bronze,Bill Hogenson,USA,NaN,NaN
+67,400 metres,1904,M,1,Gold,Harry Hillman,USA,49.2,NaN
+68,400 metres,1904,M,2,Silver,Frank Waller,USA,49.9,NaN
+69,400 metres,1904,M,3,Bronze,Herman Groman,USA,50.0,NaN
+70,800 metres,1904,M,1,Gold,Jim Lightbody,USA,116.0,NaN
+71,800 metres,1904,M,2,Silver,Howard Valentine,USA,116.3,NaN
+72,800 metres,1904,M,3,Bronze,Emil Breitkreutz,USA,116.4,NaN
+73,"1,500 metres",1904,M,1,Gold,Jim Lightbody,USA,245.4,NaN
+74,"1,500 metres",1904,M,2,Silver,Bill Verner,USA,246.8,NaN
+75,"1,500 metres",1904,M,3,Bronze,Lacey Hearn,USA,NaN,NaN
+76,Marathon,1904,M,1,Gold,Tom Hicks,USA,12533.0,NaN
+77,Marathon,1904,M,2,Silver,Albert Corey,USA,12892.0,NaN
+78,Marathon,1904,M,3,Bronze,Arthur Newton,USA,13653.0,NaN
+79,Long Jump,1904,M,1,Gold,Meyer Prinstein,USA,NaN,7.34
+80,Long Jump,1904,M,2,Silver,Dan Frank,USA,NaN,6.89
+81,Long Jump,1904,M,3,Bronze,Robert Stangland,USA,NaN,6.88
+82,Triple Jump,1904,M,1,Gold,Meyer Prinstein,USA,NaN,14.32
+83,Triple Jump,1904,M,2,Silver,Fred Engelhardt,USA,NaN,13.90
+84,Triple Jump,1904,M,3,Bronze,Robert Stangland,USA,NaN,13.36
+85,Shot Put,1904,M,1,Gold,Ralph Rose,USA,NaN,14.81
+86,Shot Put,1904,M,2,Silver,Wesley Coe,USA,NaN,14.40
+87,Shot Put,1904,M,3,Bronze,Lawrence Feuerbach,USA,NaN,13.37
+88,Discus Throw,1904,M,1,Gold,Martin Sheridan,USA,NaN,39.28
+89,Discus Throw,1904,M,2,Silver,Ralph Rose,USA,NaN,39.28
+90,Discus Throw,1904,M,3,Bronze,Nikolaos Georgantas,GRE,NaN,37.68
+91,Hammer Throw,1904,M,1,Gold,John Flanagan,USA,NaN,51.23
+92,Hammer Throw,1904,M,2,Silver,John DeWitt,USA,NaN,50.26
+93,Hammer Throw,1904,M,3,Bronze,Ralph Rose,USA,NaN,45.73
+94,100 metres,1908,M,1,Gold,Reggie Walker,RSA,10.8,NaN
+95,100 metres,1908,M,2,Silver,James Rector,USA,NaN,NaN
+96,100 metres,1908,M,3,Bronze,Bobby Kerr,CAN,NaN,NaN
+97,200 metres,1908,M,1,Gold,Bobby Kerr,CAN,22.6,NaN
+98,200 metres,1908,M,2,Silver,Bobby Cloughen,USA,NaN,NaN
+99,200 metres,1908,M,3,Bronze,Nate Cartmell,USA,NaN,NaN
+100,400 metres,1908,M,1,Gold,Wyndham Halswelle,GBR,NaN,NaN
+101,800 metres,1908,M,1,Gold,Mel Sheppard,USA,112.8,NaN
+102,800 metres,1908,M,2,Silver,Emilio Lunghi,ITA,NaN,NaN
+103,800 metres,1908,M,3,Bronze,Hanns Braun,GER,NaN,NaN
+104,"1,500 metres",1908,M,1,Gold,Mel Sheppard,USA,243.4,NaN
+105,"1,500 metres",1908,M,2,Silver,Harold Wilson,GBR,NaN,NaN
+106,"1,500 metres",1908,M,3,Bronze,Norman Hallows,GBR,NaN,NaN
+107,Marathon,1908,M,1,Gold,Johnny Hayes,USA,10518.4,NaN
+108,Marathon,1908,M,2,Silver,Charles Hefferon,RSA,10566.0,NaN
+109,Marathon,1908,M,3,Bronze,Joe Forshaw,USA,10630.4,NaN
+110,Long Jump,1908,M,1,Gold,Frank Irons,USA,NaN,NaN
+111,Long Jump,1908,M,2,Silver,Dan Kelly,USA,NaN,NaN
+112,Long Jump,1908,M,3,Bronze,Cal Bricker,CAN,NaN,NaN
+113,Triple Jump,1908,M,1,Gold,Tim Ahearne,GBR,NaN,14.92
+114,Triple Jump,1908,M,2,Silver,Garfield MacDonald,CAN,NaN,14.76
+115,Triple Jump,1908,M,3,Bronze,Edvard Larsen,NOR,NaN,14.39
+116,Shot Put,1908,M,1,Gold,Ralph Rose,USA,NaN,14.21
+117,Shot Put,1908,M,2,Silver,Denis Horgan,GBR,NaN,13.62
+118,Shot Put,1908,M,3,Bronze,Johnny Garrels,USA,NaN,13.18
+119,Discus Throw,1908,M,1,Gold,Martin Sheridan,USA,NaN,40.89
+120,Discus Throw,1908,M,2,Silver,Merritt Giffin,USA,NaN,40.70
+121,Discus Throw,1908,M,3,Bronze,Bill Horr,USA,NaN,39.45
+122,Discus Throw,1908,F,1,Gold,Martin Sheridan,USA,NaN,37.99
+123,Discus Throw,1908,F,2,Silver,Bill Horr,USA,NaN,37.32
+124,Discus Throw,1908,F,3,Bronze,Verner JÃ¤rvinen,FIN,NaN,36.48
+125,Hammer Throw,1908,M,1,Gold,John Flanagan,USA,NaN,51.92
+126,Hammer Throw,1908,M,2,Silver,Matt McGrath,USA,NaN,51.18
+127,Hammer Throw,1908,M,3,Bronze,Con Walsh,CAN,NaN,48.51
+128,Javelin Throw,1908,M,1,Gold,Eric Lemming,SWE,NaN,54.83
+129,Javelin Throw,1908,M,2,Silver,Arne Halse,NOR,NaN,50.57
+130,Javelin Throw,1908,M,3,Bronze,Otto Nilsson,SWE,NaN,47.11
+131,Javelin Throw,1908,F,1,Gold,Eric Lemming,SWE,NaN,54.44
+132,Javelin Throw,1908,F,2,Silver,Mikhail Dorizas,GRE,NaN,51.36
+133,Javelin Throw,1908,F,3,Bronze,Arne Halse,NOR,NaN,49.73
+134,100 metres,1912,M,1,Gold,Ralph Craig,USA,10.8,NaN
+135,100 metres,1912,M,2,Silver,Alvah Meyer,USA,NaN,NaN
+136,100 metres,1912,M,3,Bronze,Donald Lippincott,USA,NaN,NaN
+137,200 metres,1912,M,1,Gold,Ralph Craig,USA,21.7,NaN
+138,200 metres,1912,M,2,Silver,Donald Lippincott,USA,21.8,NaN
+139,200 metres,1912,M,3,Bronze,Willie Applegarth,GBR,21.9,NaN
+140,400 metres,1912,M,1,Gold,Charles Reidpath,USA,48.2,NaN
+141,400 metres,1912,M,2,Silver,Hanns Braun,GER,48.3,NaN
+142,400 metres,1912,M,3,Bronze,Ed Lindberg,USA,48.4,NaN
+143,800 metres,1912,M,1,Gold,Ted Meredith,USA,111.9,NaN
+144,800 metres,1912,M,2,Silver,Mel Sheppard,USA,112.0,NaN
+145,800 metres,1912,M,3,Bronze,Ira Davenport,USA,112.0,NaN
+146,"1,500 metres",1912,M,1,Gold,Arnold Jackson,GBR,236.8,NaN
+147,"1,500 metres",1912,M,2,Silver,Abel Kiviat,USA,236.9,NaN
+148,"1,500 metres",1912,M,3,Bronze,Norm Taber,USA,236.9,NaN
+149,"5,000 metres",1912,M,1,Gold,Hannes Kolehmainen,FIN,876.6,NaN
+150,"5,000 metres",1912,M,2,Silver,Jean Bouin,FRA,876.7,NaN
+151,"5,000 metres",1912,M,3,Bronze,George Hutson,GBR,907.6,NaN
+152,"10,000 metres",1912,M,1,Gold,Hannes Kolehmainen,FIN,1880.8,NaN
+153,"10,000 metres",1912,M,2,Silver,Lewis Tewanima,USA,1926.6,NaN
+154,"10,000 metres",1912,M,3,Bronze,Albin Stenroos,FIN,1941.8,NaN
+155,Marathon,1912,M,1,Gold,Ken McArthur,RSA,9414.8,NaN
+156,Marathon,1912,M,2,Silver,Chris Gitsham,RSA,9472.0,NaN
+157,Marathon,1912,M,3,Bronze,Gaston Strobino,USA,9522.4,NaN
+158,Long Jump,1912,M,1,Gold,Albert Gutterson,USA,NaN,7.60
+159,Long Jump,1912,M,2,Silver,Cal Bricker,CAN,NaN,7.21
+160,Long Jump,1912,M,3,Bronze,Georg Ãberg,SWE,NaN,7.18
+161,Triple Jump,1912,M,1,Gold,Topsy Lindblom,SWE,NaN,14.76
+162,Triple Jump,1912,M,2,Silver,Georg Ãberg,SWE,NaN,14.51
+163,Triple Jump,1912,M,3,Bronze,Erik AlmlÃ¶f,SWE,NaN,14.17
+164,Shot Put,1912,M,1,Gold,Pat McDonald,USA,NaN,15.34
+165,Shot Put,1912,M,2,Silver,Ralph Rose,USA,NaN,15.25
+166,Shot Put,1912,M,3,Bronze,Larry Whitney,USA,NaN,13.93
+168,Shot Put,1912,F,2,Silver,Pat McDonald,USA,NaN,27.53
+169,Shot Put,1912,F,3,Bronze,Elmer Niklander,FIN,NaN,27.14
+170,Discus Throw,1912,M,1,Gold,Armas Taipale,FIN,NaN,45.21
+171,Discus Throw,1912,M,2,Silver,Dick Byrd,USA,NaN,42.32
+172,Discus Throw,1912,M,3,Bronze,Jim Duncan,USA,NaN,42.28
+173,Discus Throw,1912,F,1,Gold,Armas Taipale,FIN,NaN,82.86
+174,Discus Throw,1912,F,2,Silver,Elmer Niklander,FIN,NaN,77.96
+175,Discus Throw,1912,F,3,Bronze,Emil Magnusson,SWE,NaN,77.37
+176,Hammer Throw,1912,M,1,Gold,Matt McGrath,USA,NaN,54.74
+177,Hammer Throw,1912,M,2,Silver,Duncan Gillis,CAN,NaN,47.24
+178,Hammer Throw,1912,M,3,Bronze,Clarence Childs,USA,NaN,NaN
+179,Javelin Throw,1912,M,1,Gold,Eric Lemming,SWE,NaN,60.64
+180,Javelin Throw,1912,M,2,Silver,Julius Saaristo,FIN,NaN,58.66
+181,Javelin Throw,1912,M,3,Bronze,MiklÃ³s KovÃ¡cs,HUN,NaN,55.50
+182,Javelin Throw,1912,F,1,Gold,Julius Saaristo,FIN,NaN,NaN
+183,Javelin Throw,1912,F,2,Silver,VÃ¤inÃ¶ Siikaniemi,FIN,NaN,NaN
+184,Javelin Throw,1912,F,3,Bronze,Urho Peltonen,FIN,NaN,NaN
+185,100 metres,1920,M,1,Gold,Charley Paddock,USA,10.8,NaN
+186,100 metres,1920,M,2,Silver,Morris Kirksey,USA,NaN,NaN
+187,100 metres,1920,M,3,Bronze,Harry Edward,GBR,NaN,NaN
+188,200 metres,1920,M,1,Gold,Allen Woodring,USA,22.0,NaN
+189,200 metres,1920,M,2,Silver,Charley Paddock,USA,NaN,NaN
+190,200 metres,1920,M,3,Bronze,Harry Edward,GBR,NaN,NaN
+191,400 metres,1920,M,1,Gold,Bevil Rudd,RSA,49.6,NaN
+192,400 metres,1920,M,2,Silver,Guy Butler,GBR,NaN,NaN
+193,400 metres,1920,M,3,Bronze,Nils Engdahl,SWE,NaN,NaN
+194,800 metres,1920,M,1,Gold,Albert Hill,GBR,113.4,NaN
+195,800 metres,1920,M,2,Silver,Earl Eby,USA,113.6,NaN
+196,800 metres,1920,M,3,Bronze,Bevil Rudd,RSA,NaN,NaN
+197,"1,500 metres",1920,M,1,Gold,Albert Hill,GBR,241.8,NaN
+198,"1,500 metres",1920,M,2,Silver,Philip Baker,GBR,NaN,NaN
+199,"1,500 metres",1920,M,3,Bronze,Larry Shields,USA,NaN,NaN
+200,"5,000 metres",1920,M,1,Gold,Joseph Guillemot,FRA,895.6,NaN
+201,"5,000 metres",1920,M,2,Silver,Paavo Nurmi,FIN,900.0,NaN
+202,"5,000 metres",1920,M,3,Bronze,Eric Backman,SWE,913.0,NaN
+203,"10,000 metres",1920,M,1,Gold,Paavo Nurmi,FIN,1905.8,NaN
+204,"10,000 metres",1920,M,2,Silver,Joseph Guillemot,FRA,NaN,NaN
+205,"10,000 metres",1920,M,3,Bronze,James Wilson,GBR,NaN,NaN
+206,Marathon,1920,M,1,Gold,Hannes Kolehmainen,FIN,9155.8,NaN
+207,Marathon,1920,M,2,Silver,JÃ¼ri Lossman,EST,9168.6,NaN
+208,Marathon,1920,M,3,Bronze,Valerio Arri,ITA,9397.8,NaN
+209,Long Jump,1920,M,1,Gold,William Petersson,SWE,NaN,7.150
+210,Long Jump,1920,M,2,Silver,Carl Johnson,USA,NaN,7.095
+211,Long Jump,1920,M,3,Bronze,Erik Abrahamsson,SWE,NaN,7.080
+212,Triple Jump,1920,M,1,Gold,Ville Tuulos,FIN,NaN,14.505
+213,Triple Jump,1920,M,2,Silver,Folke Jansson,SWE,NaN,14.480
+214,Triple Jump,1920,M,3,Bronze,Erik AlmlÃ¶f,SWE,NaN,14.270
+215,Shot Put,1920,M,1,Gold,Ville PÃ¶rhÃ¶lÃ¤,FIN,NaN,14.810
+216,Shot Put,1920,M,2,Silver,Elmer Niklander,FIN,NaN,14.155
+217,Shot Put,1920,M,3,Bronze,Harry Liversedge,USA,NaN,14.150
+218,Discus Throw,1920,M,1,Gold,Elmer Niklander,FIN,NaN,44.685
+219,Discus Throw,1920,M,2,Silver,Armas Taipale,FIN,NaN,44.190
+220,Discus Throw,1920,M,3,Bronze,Gus Pope,USA,NaN,42.130
+221,Hammer Throw,1920,M,1,Gold,Paddy Ryan,USA,NaN,52.875
+222,Hammer Throw,1920,M,2,Silver,Carl Johan Lind,SWE,NaN,48.430
+223,Hammer Throw,1920,M,3,Bronze,Basil Bennett,USA,NaN,48.230
+224,Javelin Throw,1920,M,1,Gold,Jonni MyyrÃ¤,FIN,NaN,65.780
+225,Javelin Throw,1920,M,2,Silver,Urho Peltonen,FIN,NaN,63.605
+226,Javelin Throw,1920,M,3,Bronze,Paavo Johansson,FIN,NaN,63.095
+227,100 metres,1924,M,1,Gold,Harold Abrahams,GBR,10.6,NaN
+228,100 metres,1924,M,2,Silver,Jackson Scholz,USA,10.7,NaN
+229,100 metres,1924,M,3,Bronze,Arthur Porritt,NZL,10.8,NaN
+230,200 metres,1924,M,1,Gold,Jackson Scholz,USA,21.6,NaN
+231,200 metres,1924,M,2,Silver,Charley Paddock,USA,21.7,NaN
+232,200 metres,1924,M,3,Bronze,Eric Liddell,GBR,21.9,NaN
+233,400 metres,1924,M,1,Gold,Eric Liddell,GBR,47.6,NaN
+234,400 metres,1924,M,2,Silver,Ray Fitch,USA,48.4,NaN
+235,400 metres,1924,M,3,Bronze,Guy Butler,GBR,48.6,NaN
+236,800 metres,1924,M,1,Gold,Douglas Lowe,GBR,112.4,NaN
+237,800 metres,1924,M,2,Silver,Paul Martin,SUI,112.6,NaN
+238,800 metres,1924,M,3,Bronze,Sky Enck,USA,113.0,NaN
+239,"1,500 metres",1924,M,1,Gold,Paavo Nurmi,FIN,233.6,NaN
+240,"1,500 metres",1924,M,2,Silver,Willy SchÃ¤rer,SUI,235.0,NaN
+241,"1,500 metres",1924,M,3,Bronze,Henry Stallard,GBR,235.6,NaN
+242,"5,000 metres",1924,M,1,Gold,Paavo Nurmi,FIN,871.2,NaN
+243,"5,000 metres",1924,M,2,Silver,Ville Ritola,FIN,871.4,NaN
+244,"5,000 metres",1924,M,3,Bronze,Edvin Wide,SWE,901.8,NaN
+245,"10,000 metres",1924,F,1,Gold,Ville Ritola,FIN,1823.2,NaN
+246,"10,000 metres",1924,F,2,Silver,Edvin Wide,SWE,1855.2,NaN
+247,"10,000 metres",1924,F,3,Bronze,Eero Berg,FIN,1903.0,NaN
+248,Marathon,1924,M,1,Gold,Albin Stenroos,FIN,9682.6,NaN
+249,Marathon,1924,M,2,Silver,Romeo Bertini,ITA,10039.6,NaN
+250,Marathon,1924,M,3,Bronze,Clarence DeMar,USA,10094.0,NaN
+251,Long Jump,1924,M,1,Gold,DeHart Hubbard,USA,NaN,7.445
+252,Long Jump,1924,M,2,Silver,Ned Gourdin,USA,NaN,7.275
+253,Long Jump,1924,M,3,Bronze,Sverre Hansen,NOR,NaN,7.260
+254,Triple Jump,1924,M,1,Gold,Nick Winter,AUS,NaN,15.525
+255,Triple Jump,1924,M,2,Silver,Luis Brunetto,ARG,NaN,15.425
+256,Triple Jump,1924,M,3,Bronze,Ville Tuulos,FIN,NaN,15.370
+257,Shot Put,1924,M,1,Gold,Bud Houser,USA,NaN,14.995
+258,Shot Put,1924,M,2,Silver,Glenn Hartranft,USA,NaN,14.895
+259,Shot Put,1924,M,3,Bronze,Ralph Hills,USA,NaN,14.640
+260,Discus Throw,1924,M,1,Gold,Bud Houser,USA,NaN,46.155
+261,Discus Throw,1924,M,2,Silver,Vilho Niittymaa,FIN,NaN,44.950
+262,Discus Throw,1924,M,3,Bronze,Tom Lieb,USA,NaN,44.830
+263,Hammer Throw,1924,M,1,Gold,Fred Tootell,USA,NaN,53.295
+264,Hammer Throw,1924,M,2,Silver,Matt McGrath,USA,NaN,50.840
+265,Hammer Throw,1924,M,3,Bronze,Malcolm Nokes,GBR,NaN,48.875
+266,Javelin Throw,1924,M,1,Gold,Jonni MyyrÃ¤,FIN,NaN,62.96
+267,Javelin Throw,1924,M,2,Silver,Gunnar LindstrÃ¶m,SWE,NaN,60.92
+268,Javelin Throw,1924,M,3,Bronze,Gene Oberst,USA,NaN,58.35
+269,100 metres,1928,M,1,Gold,Percy Williams,CAN,10.8,NaN
+270,100 metres,1928,M,2,Silver,Jack London,GBR,10.9,NaN
+271,100 metres,1928,M,3,Bronze,Georg Lammers,GER,10.9,NaN
+272,200 metres,1928,M,1,Gold,Percy Williams,CAN,21.8,NaN
+273,200 metres,1928,M,2,Silver,Walter Rangeley,GBR,21.9,NaN
+274,200 metres,1928,M,3,Bronze,Helmut KÃ¶rnig,GER,21.9,NaN
+275,400 metres,1928,M,1,Gold,Ray Barbuti,USA,47.8,NaN
+276,400 metres,1928,M,2,Silver,Jimmy Ball,CAN,48.0,NaN
+277,400 metres,1928,M,3,Bronze,Jochen BÃ¼chner,GER,48.2,NaN
+278,800 metres,1928,M,1,Gold,Douglas Lowe,GBR,111.8,NaN
+279,800 metres,1928,M,2,Silver,Erik BylÃ©hn,SWE,NaN,NaN
+280,800 metres,1928,M,3,Bronze,Hermann Engelhard,GER,NaN,NaN
+281,"1,500 metres",1928,M,1,Gold,Harri Larva,FIN,233.2,NaN
+282,"1,500 metres",1928,M,2,Silver,Jules LadoumÃ¨gue,FRA,233.8,NaN
+283,"1,500 metres",1928,M,3,Bronze,Eino Purje,FIN,236.4,NaN
+284,"5,000 metres",1928,M,1,Gold,Ville Ritola,FIN,878.0,NaN
+285,"5,000 metres",1928,M,2,Silver,Paavo Nurmi,FIN,880.0,NaN
+286,"5,000 metres",1928,M,3,Bronze,Edvin Wide,SWE,881.2,NaN
+287,"10,000 metres",1928,M,1,Gold,Paavo Nurmi,FIN,1818.8,NaN
+288,"10,000 metres",1928,M,2,Silver,Ville Ritola,FIN,1819.4,NaN
+289,"10,000 metres",1928,M,3,Bronze,Edvin Wide,SWE,1860.8,NaN
+290,Marathon,1928,M,1,Gold,Bouguera El Ouafi,FRA,9177.0,NaN
+291,Marathon,1928,M,2,Silver,Manuel Plaza,CHI,9203.0,NaN
+292,Marathon,1928,M,3,Bronze,Martti Marttelin,FIN,9302.0,NaN
+293,Long Jump,1928,M,1,Gold,Ed Hamm,USA,NaN,7.73
+294,Long Jump,1928,M,2,Silver,Sylvio Cator,HAI,NaN,7.58
+295,Long Jump,1928,M,3,Bronze,Al Bates,USA,NaN,7.40
+296,Triple Jump,1928,M,1,Gold,Mikio Oda,JPN,NaN,15.21
+297,Triple Jump,1928,M,2,Silver,Lee Casey,USA,NaN,15.17
+298,Triple Jump,1928,M,3,Bronze,Ville Tuulos,FIN,NaN,15.11
+299,Shot Put,1928,M,1,Gold,Johnny Kuck,USA,NaN,15.87
+300,Shot Put,1928,M,2,Silver,Herman Brix,USA,NaN,15.75
+301,Shot Put,1928,M,3,Bronze,Emil Hirschfeld,GER,NaN,15.72
+302,Discus Throw,1928,M,1,Gold,Bud Houser,USA,NaN,47.32
+303,Discus Throw,1928,M,2,Silver,Antero Kivi,FIN,NaN,47.23
+304,Discus Throw,1928,M,3,Bronze,Jim Corson,USA,NaN,47.10
+305,Hammer Throw,1928,M,1,Gold,Pat O'Callaghan,IRL,NaN,51.39
+306,Hammer Throw,1928,M,2,Silver,Ossian SkiÃ¶ld,SWE,NaN,51.29
+307,Hammer Throw,1928,M,3,Bronze,Ed Black,USA,NaN,49.03
+308,Javelin Throw,1928,M,1,Gold,Erik Lundqvist,SWE,NaN,66.60
+309,Javelin Throw,1928,M,2,Silver,BÃ©la Szepes,HUN,NaN,65.26
+310,Javelin Throw,1928,M,3,Bronze,Olav Sunde,NOR,NaN,63.97
+311,100 metres,1928,F,1,Gold,Betty Robinson,USA,12.2,NaN
+312,100 metres,1928,F,2,Silver,Bobby Rosenfeld,CAN,12.3,NaN
+313,100 metres,1928,F,3,Bronze,Ethel Smith,CAN,12.3,NaN
+314,800 metres,1928,F,1,Gold,Lina Radke-Batschauer,GER,136.8,NaN
+315,800 metres,1928,F,2,Silver,Kinue Hitomi,JPN,137.6,NaN
+316,800 metres,1928,F,3,Bronze,Inga Gentzel,SWE,137.8,NaN
+317,Discus Throw,1928,F,1,Gold,Halina Konopacka,POL,NaN,39.62
+318,Discus Throw,1928,F,2,Silver,Lillian Copeland,USA,NaN,37.08
+319,Discus Throw,1928,F,3,Bronze,Ruth Svedberg,SWE,NaN,35.92
+320,100 metres,1932,M,1,Gold,Eddie Tolan,USA,10.3,NaN
+321,100 metres,1932,M,2,Silver,Ralph Metcalfe,USA,10.3,NaN
+322,100 metres,1932,M,3,Bronze,Arthur Jonath,GER,10.4,NaN
+323,200 metres,1932,M,1,Gold,Eddie Tolan,USA,21.2,NaN
+324,200 metres,1932,M,2,Silver,George Simpson,USA,21.4,NaN
+325,200 metres,1932,M,3,Bronze,Ralph Metcalfe,USA,21.5,NaN
+326,400 metres,1932,M,1,Gold,Bill Carr,USA,46.2,NaN
+327,400 metres,1932,M,2,Silver,Ben Eastman,USA,46.4,NaN
+328,400 metres,1932,M,3,Bronze,Alex Wilson,CAN,47.4,NaN
+329,800 metres,1932,M,1,Gold,Tommy Hampson,GBR,109.7,NaN
+330,800 metres,1932,M,2,Silver,Alex Wilson,CAN,109.9,NaN
+331,800 metres,1932,M,3,Bronze,Phil Edwards,CAN,111.5,NaN
+332,"1,500 metres",1932,M,1,Gold,Luigi Beccali,ITA,231.2,NaN
+333,"1,500 metres",1932,M,2,Silver,Jerry Cornes,GBR,232.6,NaN
+334,"1,500 metres",1932,M,3,Bronze,Phil Edwards,CAN,232.8,NaN
+335,"5,000 metres",1932,M,1,Gold,Lauri Lehtinen,FIN,870.0,NaN
+336,"5,000 metres",1932,M,2,Silver,Ralph Hill,USA,870.0,NaN
+337,"5,000 metres",1932,M,3,Bronze,Lasse Virtanen,FIN,884.0,NaN
+338,"10,000 metres",1932,M,1,Gold,Janusz KusociÅski,POL,1811.4,NaN
+339,"10,000 metres",1932,M,2,Silver,Volmari Iso-Hollo,FIN,1812.6,NaN
+340,"10,000 metres",1932,M,3,Bronze,Lasse Virtanen,FIN,1835.0,NaN
+341,Marathon,1932,M,1,Gold,Juan Carlos Zabala,ARG,9096.0,NaN
+342,Marathon,1932,M,2,Silver,Sam Ferris,GBR,9115.0,NaN
+343,Marathon,1932,M,3,Bronze,Armas Toivonen,FIN,9132.0,NaN
+344,Long Jump,1932,M,1,Gold,Ed Gordon,USA,NaN,7.64
+345,Long Jump,1932,M,2,Silver,Lambert Redd,USA,NaN,7.60
+346,Long Jump,1932,M,3,Bronze,Chuhei Nanbu,JPN,NaN,7.45
+347,Triple Jump,1932,M,1,Gold,Chuhei Nanbu,JPN,NaN,15.72
+348,Triple Jump,1932,M,2,Silver,Eric Svensson,SWE,NaN,15.32
+349,Triple Jump,1932,M,3,Bronze,Kenkichi Oshima,JPN,NaN,15.12
+350,Shot Put,1932,M,1,Gold,Leo Sexton,USA,NaN,16.005
+351,Shot Put,1932,M,2,Silver,Harlow Rothert,USA,NaN,15.675
+352,Shot Put,1932,M,3,Bronze,FrantiÅ¡ek Douda,TCH,NaN,15.610
+353,Discus Throw,1932,M,1,Gold,John Anderson,USA,NaN,49.49
+354,Discus Throw,1932,M,2,Silver,Henri LaBorde,USA,NaN,48.47
+355,Discus Throw,1932,M,3,Bronze,Paul Winter,FRA,NaN,47.85
+356,Hammer Throw,1932,M,1,Gold,Pat O'Callaghan,IRL,NaN,53.92
+357,Hammer Throw,1932,M,2,Silver,Ville PÃ¶rhÃ¶lÃ¤,FIN,NaN,52.27
+358,Hammer Throw,1932,M,3,Bronze,Pete Zaremba,USA,NaN,50.33
+359,Javelin Throw,1932,M,1,Gold,Matti JÃ¤rvinen,FIN,NaN,NaN
+360,Javelin Throw,1932,M,2,Silver,Matti Sippala,FIN,NaN,NaN
+361,Javelin Throw,1932,M,3,Bronze,Eino PenttilÃ¤,FIN,NaN,NaN
+362,100 metres,1932,F,1,Gold,StanisÅawa Walasiewicz,POL,11.9,NaN
+363,100 metres,1932,F,2,Silver,Hilda Strike,CAN,11.9,NaN
+364,100 metres,1932,F,3,Bronze,Billie von Bremen,USA,12.0,NaN
+365,Discus Throw,1932,F,1,Gold,Lillian Copeland,USA,NaN,40.58
+366,Discus Throw,1932,F,2,Silver,Ruth Osburn,USA,NaN,40.12
+367,Discus Throw,1932,F,3,Bronze,Jadwiga Wajs,POL,NaN,38.74
+368,Javelin Throw,1932,F,1,Gold,Babe Didrikson,USA,NaN,43.69
+369,Javelin Throw,1932,F,2,Silver,Ellen BraumÃ¼ller,GER,NaN,43.50
+370,Javelin Throw,1932,F,3,Bronze,Tilly Fleischer,GER,NaN,43.01
+371,100 metres,1936,M,1,Gold,Jesse Owens,USA,10.3,NaN
+372,100 metres,1936,M,2,Silver,Ralph Metcalfe,USA,10.4,NaN
+373,100 metres,1936,M,3,Bronze,Tinus Osendarp,NED,10.5,NaN
+374,200 metres,1936,M,1,Gold,Jesse Owens,USA,20.7,NaN
+375,200 metres,1936,M,2,Silver,Mack Robinson,USA,21.1,NaN
+376,200 metres,1936,M,3,Bronze,Tinus Osendarp,NED,21.3,NaN
+377,400 metres,1936,M,1,Gold,Archie Williams,USA,46.5,NaN
+378,400 metres,1936,M,2,Silver,Godfrey Brown,GBR,46.7,NaN
+379,400 metres,1936,M,3,Bronze,Jimmy Lu Valle,USA,46.8,NaN
+380,800 metres,1936,M,1,Gold,John Woodruff,USA,112.9,NaN
+381,800 metres,1936,M,2,Silver,Mario Lanzi,ITA,113.3,NaN
+382,800 metres,1936,M,3,Bronze,Phil Edwards,CAN,113.6,NaN
+383,"1,500 metres",1936,M,1,Gold,Jack Lovelock,NZL,227.8,NaN
+384,"1,500 metres",1936,M,2,Silver,Glenn Cunningham,USA,228.4,NaN
+385,"1,500 metres",1936,M,3,Bronze,Luigi Beccali,ITA,229.2,NaN
+386,"5,000 metres",1936,M,1,Gold,Gunnar HÃ¶ckert,FIN,862.2,NaN
+387,"5,000 metres",1936,M,2,Silver,Lauri Lehtinen,FIN,865.8,NaN
+388,"5,000 metres",1936,M,3,Bronze,Henry Jonsson,SWE,869.0,NaN
+389,"10,000 metres",1936,M,1,Gold,Ilmari Salminen,FIN,NaN,NaN
+390,"10,000 metres",1936,M,2,Silver,Arvo Askola,FIN,NaN,NaN
+391,"10,000 metres",1936,M,3,Bronze,Volmari Iso-Hollo,FIN,NaN,NaN
+392,Marathon,1936,M,1,Gold,Son Gi-Jeong,JPN,8959.2,NaN
+393,Marathon,1936,M,2,Silver,Ernie Harper,GBR,9083.2,NaN
+394,Marathon,1936,M,3,Bronze,Nam Sung-Yong,JPN,9102.0,NaN
+395,Long Jump,1936,M,1,Gold,Jesse Owens,USA,NaN,8.06
+396,Long Jump,1936,M,2,Silver,Luz Long,GER,NaN,7.87
+397,Long Jump,1936,M,3,Bronze,Naoto Tajima,JPN,NaN,7.74
+398,Triple Jump,1936,M,1,Gold,Naoto Tajima,JPN,NaN,16.00
+399,Triple Jump,1936,M,2,Silver,Masao Harada,JPN,NaN,15.66
+400,Triple Jump,1936,M,3,Bronze,Jack Metcalfe,AUS,NaN,15.50
+401,Shot Put,1936,M,1,Gold,Hans Woellke,GER,NaN,16.20
+402,Shot Put,1936,M,2,Silver,Sulo BÃ¤rlund,FIN,NaN,16.12
+403,Shot Put,1936,M,3,Bronze,Gerhard StÃ¶ck,GER,NaN,15.66
+404,Discus Throw,1936,M,1,Gold,Ken Carpenter,USA,NaN,50.48
+405,Discus Throw,1936,M,2,Silver,Gordon Dunn,USA,NaN,49.36
+406,Discus Throw,1936,M,3,Bronze,Giorgio Oberweger,ITA,NaN,49.23
+407,Hammer Throw,1936,M,1,Gold,Karl Hein,GER,NaN,56.49
+408,Hammer Throw,1936,M,2,Silver,Erwin Blask,GER,NaN,55.04
+409,Hammer Throw,1936,M,3,Bronze,Fred WarngÃ¥rd,SWE,NaN,54.83
+410,Javelin Throw,1936,M,1,Gold,Gerhard StÃ¶ck,GER,NaN,71.84
+411,Javelin Throw,1936,M,2,Silver,YrjÃ¶ Nikkanen,FIN,NaN,70.77
+412,Javelin Throw,1936,M,3,Bronze,Kalervo Toivonen,FIN,NaN,70.72
+413,100 metres,1936,F,1,Gold,Helen Stephens,USA,11.5,NaN
+414,100 metres,1936,F,2,Silver,StanisÅawa Walasiewicz,POL,11.7,NaN
+415,100 metres,1936,F,3,Bronze,KÃ¤the KrauÃ,GER,11.9,NaN
+416,Discus Throw,1936,F,1,Gold,Gisela Mauermayer,GER,NaN,47.63
+417,Discus Throw,1936,F,2,Silver,Jadwiga Wajs,POL,NaN,46.22
+418,Discus Throw,1936,F,3,Bronze,Paula Mollenhauer,GER,NaN,39.8
+419,Javelin Throw,1936,F,1,Gold,Tilly Fleischer,GER,NaN,45.18
+420,Javelin Throw,1936,F,2,Silver,Lies KrÃ¼ger,GER,NaN,43.29
+421,Javelin Throw,1936,F,3,Bronze,Maria KwaÅniewska,POL,NaN,41.80
+422,100 metres,1948,M,1,Gold,Harrison Dillard,USA,10.3,NaN
+423,100 metres,1948,M,2,Silver,Barney Ewell,USA,10.4,NaN
+424,100 metres,1948,M,3,Bronze,Lloyd LaBeach,PAN,10.6,NaN
+425,200 metres,1948,M,1,Gold,Mel Patton,USA,21.1,NaN
+426,200 metres,1948,M,2,Silver,Barney Ewell,USA,21.1,NaN
+427,200 metres,1948,M,3,Bronze,Lloyd LaBeach,PAN,21.2,NaN
+428,400 metres,1948,M,1,Gold,Arthur Wint,JAM,46.2,NaN
+429,400 metres,1948,M,2,Silver,Herb McKenley,JAM,46.4,NaN
+430,400 metres,1948,M,3,Bronze,Mal Whitfield,USA,46.9,NaN
+431,800 metres,1948,M,1,Gold,Mal Whitfield,USA,109.2,NaN
+432,800 metres,1948,M,2,Silver,Arthur Wint,JAM,109.5,NaN
+433,800 metres,1948,M,3,Bronze,Marcel Hansenne,FRA,109.8,NaN
+434,"1,500 metres",1948,M,1,Gold,Henry Eriksson,SWE,229.8,NaN
+435,"1,500 metres",1948,M,2,Silver,Lennart Strand,SWE,230.4,NaN
+436,"1,500 metres",1948,M,3,Bronze,Wim Slijkhuis,NED,230.4,NaN
+437,"5,000 metres",1948,M,1,Gold,Gaston Reiff,BEL,857.6,NaN
+438,"5,000 metres",1948,M,2,Silver,Emil ZÃ¡topek,TCH,857.8,NaN
+439,"5,000 metres",1948,M,3,Bronze,Wim Slijkhuis,NED,866.8,NaN
+440,"10,000 metres",1948,M,1,Gold,Emil ZÃ¡topek,TCH,NaN,NaN
+441,"10,000 metres",1948,M,2,Silver,Alain Mimoun,FRA,NaN,NaN
+442,"10,000 metres",1948,M,3,Bronze,Bertil Albertsson,SWE,NaN,NaN
+443,Marathon,1948,M,1,Gold,Delfo Cabrera,ARG,9291.6,NaN
+444,Marathon,1948,M,2,Silver,Tom Richards,GBR,9307.6,NaN
+445,Marathon,1948,M,3,Bronze,Ãtienne Gailly,BEL,9333.6,NaN
+446,Long Jump,1948,M,1,Gold,Willie Steele,USA,NaN,7.825
+447,Long Jump,1948,M,2,Silver,Bill Bruce,AUS,NaN,7.555
+448,Long Jump,1948,M,3,Bronze,Herb Douglas,USA,NaN,7.545
+449,Triple Jump,1948,M,1,Gold,Arne Ãhman,SWE,NaN,15.400
+450,Triple Jump,1948,M,2,Silver,George Avery,AUS,NaN,15.365
+451,Triple Jump,1948,M,3,Bronze,Ruhi SarÄ±alp,TUR,NaN,15.025
+452,Shot Put,1948,M,1,Gold,Wilbur Thompson,USA,NaN,17.120
+453,Shot Put,1948,M,2,Silver,Jim Delaney,USA,NaN,16.680
+454,Shot Put,1948,M,3,Bronze,Jim Fuchs,USA,NaN,16.420
+455,Discus Throw,1948,M,1,Gold,Adolfo Consolini,ITA,NaN,52.78
+456,Discus Throw,1948,M,2,Silver,Giuseppe Tosi,ITA,NaN,51.78
+457,Discus Throw,1948,M,3,Bronze,Fortune Gordien,USA,NaN,50.77
+458,Hammer Throw,1948,M,1,Gold,Imre NÃ©meth,HUN,NaN,56.07
+459,Hammer Throw,1948,M,2,Silver,Ivan Gubijan,YUG,NaN,54.27
+460,Hammer Throw,1948,M,3,Bronze,Bob Bennett,USA,NaN,53.73
+461,Javelin Throw,1948,M,1,Gold,Tapio Rautavaara,FIN,NaN,69.77
+462,Javelin Throw,1948,M,2,Silver,Steve Seymour,USA,NaN,67.56
+463,Javelin Throw,1948,M,3,Bronze,JÃ³zsef VÃ¡rszegi,HUN,NaN,67.03
+464,100 metres,1948,F,1,Gold,Fanny Blankers-Koen,NED,11.9,NaN
+465,100 metres,1948,F,2,Silver,Dorothy Manley,GBR,12.2,NaN
+466,100 metres,1948,F,3,Bronze,Shirley Strickland,AUS,12.2,NaN
+467,200 metres,1948,F,1,Gold,Fanny Blankers-Koen,NED,24.4,NaN
+468,200 metres,1948,F,2,Silver,Audrey Williamson,GBR,25.1,NaN
+469,200 metres,1948,F,4,Bronze,Mickey Patterson,USA,25.2,NaN
+470,Long Jump,1948,F,1,Gold,Olga Gyarmati,HUN,NaN,5.695
+471,Long Jump,1948,F,2,Silver,NoemÃ­ Simonetto de Portela,ARG,NaN,5.600
+472,Long Jump,1948,F,3,Bronze,Ann-Britt Leyman,SWE,NaN,5.575
+473,Shot Put,1948,F,1,Gold,Micheline Ostermeyer,FRA,NaN,13.750
+474,Shot Put,1948,F,2,Silver,Amelia Piccinini,ITA,NaN,13.095
+475,Shot Put,1948,F,3,Bronze,Ine SchÃ¤ffer,AUT,NaN,13.080
+476,Discus Throw,1948,F,1,Gold,Micheline Ostermeyer,FRA,NaN,41.92
+477,Discus Throw,1948,F,2,Silver,Edera Cordiale-Gentile,ITA,NaN,41.17
+478,Discus Throw,1948,F,3,Bronze,Jacqueline MazÃ©as,FRA,NaN,40.47
+479,Javelin Throw,1948,F,1,Gold,Herma Bauma,AUT,NaN,45.57
+480,Javelin Throw,1948,F,2,Silver,Kaisa Parviainen,FIN,NaN,43.79
+481,Javelin Throw,1948,F,3,Bronze,Lily Carlstedt,DEN,NaN,42.08
+482,100 metres,1952,M,1,Gold,Lindy Remigino,USA,10.4,NaN
+483,100 metres,1952,M,2,Silver,Herb McKenley,JAM,10.4,NaN
+484,100 metres,1952,M,3,Bronze,McDonald Bailey,GBR,10.4,NaN
+485,200 metres,1952,M,1,Gold,Andy Stanfield,USA,20.7,NaN
+486,200 metres,1952,M,2,Silver,Thane Baker,USA,20.8,NaN
+487,200 metres,1952,M,3,Bronze,Jimmy Gathers,USA,20.8,NaN
+488,400 metres,1952,M,1,Gold,George Rhoden,JAM,45.9,NaN
+489,400 metres,1952,M,2,Silver,Herb McKenley,JAM,45.9,NaN
+490,400 metres,1952,M,3,Bronze,Ollie Matson,USA,46.8,NaN
+491,800 metres,1952,M,1,Gold,Mal Whitfield,USA,109.2,NaN
+492,800 metres,1952,M,2,Silver,Arthur Wint,JAM,109.4,NaN
+493,800 metres,1952,M,3,Bronze,Heinz Ulzheimer,GER,109.7,NaN
+494,"1,500 metres",1952,M,1,Gold,Josy Barthel,LUX,225.2,NaN
+495,"1,500 metres",1952,M,2,Silver,Bob McMillen,USA,225.2,NaN
+496,"1,500 metres",1952,M,3,Bronze,Werner Lueg,GER,225.4,NaN
+497,"5,000 metres",1952,M,1,Gold,Emil ZÃ¡topek,TCH,846.6,NaN
+498,"5,000 metres",1952,M,2,Silver,Alain Mimoun,FRA,847.4,NaN
+499,"5,000 metres",1952,M,3,Bronze,Herbert Schade,GER,848.6,NaN
+500,"10,000 metres",1952,M,1,Gold,Emil ZÃ¡topek,TCH,NaN,NaN
+501,"10,000 metres",1952,M,2,Silver,Alain Mimoun,FRA,NaN,NaN
+502,"10,000 metres",1952,M,3,Bronze,Aleksandr Anufriyev,URS,NaN,NaN
+503,Marathon,1952,M,1,Gold,Emil ZÃ¡topek,TCH,8583.2,NaN
+504,Marathon,1952,M,2,Silver,Reinaldo Gorno,ARG,8735.0,NaN
+505,Marathon,1952,M,3,Bronze,Gustaf Jansson,SWE,8767.0,NaN
+506,Long Jump,1952,M,1,Gold,Jerome Biffle,USA,NaN,7.57
+507,Long Jump,1952,M,2,Silver,Meredith Gourdine,USA,NaN,7.53
+508,Long Jump,1952,M,3,Bronze,ÃdÃ¶n FÃ¶ldessy,HUN,NaN,7.30
+509,Triple Jump,1952,M,1,Gold,Adhemar da Silva,BRA,NaN,16.22
+510,Triple Jump,1952,M,2,Silver,Leonid Shcherbakov,URS,NaN,15.98
+511,Triple Jump,1952,M,3,Bronze,Asnoldo Devonish,VEN,NaN,15.52
+512,Shot Put,1952,M,1,Gold,Parry O'Brien,USA,NaN,17.41
+513,Shot Put,1952,M,2,Silver,Darrow Hooper,USA,NaN,17.39
+514,Shot Put,1952,M,3,Bronze,Jim Fuchs,USA,NaN,17.06
+515,Discus Throw,1952,M,1,Gold,Sim Iness,USA,NaN,55.03
+516,Discus Throw,1952,M,2,Silver,Adolfo Consolini,ITA,NaN,53.78
+517,Discus Throw,1952,M,3,Bronze,Jim Dillion,USA,NaN,53.28
+518,Hammer Throw,1952,M,1,Gold,JÃ³zsef CsermÃ¡k,HUN,NaN,60.34
+519,Hammer Throw,1952,M,2,Silver,Karl Storch,GER,NaN,58.86
+520,Hammer Throw,1952,M,3,Bronze,Imre NÃ©meth,HUN,NaN,57.74
+521,Javelin Throw,1952,M,1,Gold,Cy Young,USA,NaN,73.78
+522,Javelin Throw,1952,M,2,Silver,Bill Miller,USA,NaN,72.46
+523,Javelin Throw,1952,M,3,Bronze,Toivo HyytiÃ¤inen,FIN,NaN,71.89
+524,100 metres,1952,F,1,Gold,Marjorie Jackson,AUS,11.5,NaN
+525,100 metres,1952,F,2,Silver,Daphne HasenjÃ¤ger,RSA,11.8,NaN
+526,100 metres,1952,F,3,Bronze,Shirley Strickland de la Hunty,AUS,11.9,NaN
+527,200 metres,1952,F,1,Gold,Marjorie Jackson,AUS,23.7,NaN
+528,200 metres,1952,F,2,Silver,Puck Brouwer,NED,24.2,NaN
+529,200 metres,1952,F,3,Bronze,Nadezhda Khnik'ina,URS,24.2,NaN
+530,Long Jump,1952,F,1,Gold,Yvette Williams,NZL,NaN,6.24
+531,Long Jump,1952,F,2,Silver,Aleksandra Chudina,URS,NaN,6.14
+532,Long Jump,1952,F,3,Bronze,Shirley Cawley,GBR,NaN,5.92
+533,Shot Put,1952,F,1,Gold,Galina Zybina,URS,NaN,15.28
+534,Shot Put,1952,F,2,Silver,Marianne Werner,GER,NaN,14.57
+535,Shot Put,1952,F,3,Bronze,Klavdiya Tochonova,URS,NaN,14.50
+536,Discus Throw,1952,F,1,Gold,Nina Romashkova,URS,NaN,51.42
+537,Discus Throw,1952,F,2,Silver,Yelizaveta Bagryantseva,URS,NaN,47.08
+538,Discus Throw,1952,F,3,Bronze,Nino Dumbadze,URS,NaN,46.29
+539,Javelin Throw,1952,F,1,Gold,Dana ZÃ¡topkovÃ¡,TCH,NaN,50.47
+540,Javelin Throw,1952,F,2,Silver,Aleksandra Chudina,URS,NaN,50.01
+541,Javelin Throw,1952,F,3,Bronze,Yelena Gorchakova,URS,NaN,49.76
+542,100 metres,1956,M,1,Gold,Bobby Joe Morrow,USA,10.5,NaN
+543,100 metres,1956,M,2,Silver,Thane Baker,USA,10.5,NaN
+544,100 metres,1956,M,3,Bronze,Hec Hogan,AUS,10.6,NaN
+545,200 metres,1956,M,1,Gold,Bobby Joe Morrow,USA,20.6,NaN
+546,200 metres,1956,M,2,Silver,Andy Stanfield,USA,20.7,NaN
+547,200 metres,1956,M,3,Bronze,Thane Baker,USA,20.9,NaN
+548,400 metres,1956,M,1,Gold,Charlie Jenkins,USA,46.7,NaN
+549,400 metres,1956,M,2,Silver,Karl-Friedrich Haas,GER,46.8,NaN
+550,400 metres,1956,M,3,Bronze,Voitto HellstÃ©n,FIN,47.0,NaN
+551,400 metres,1956,M,3,Bronze,Ardalion Ignatyev,URS,47.0,NaN
+552,800 metres,1956,M,1,Gold,Tom Courtney,USA,107.7,NaN
+553,800 metres,1956,M,2,Silver,Derek Johnson,GBR,107.8,NaN
+554,800 metres,1956,M,3,Bronze,Audun Boysen,NOR,108.1,NaN
+555,"1,500 metres",1956,M,1,Gold,Ronnie Delany,IRL,221.2,NaN
+556,"1,500 metres",1956,M,2,Silver,Klaus Richtzenhain,GER,222.0,NaN
+557,"1,500 metres",1956,M,3,Bronze,John Landy,AUS,222.0,NaN
+558,"5,000 metres",1956,M,1,Gold,Vladimir Kuts,URS,819.6,NaN
+559,"5,000 metres",1956,M,2,Silver,Gordon Pirie,GBR,830.6,NaN
+560,"5,000 metres",1956,M,3,Bronze,Derek Ibbotson,GBR,834.4,NaN
+561,"10,000 metres",1956,M,1,Gold,Vladimir Kuts,URS,NaN,NaN
+562,"10,000 metres",1956,M,2,Silver,JÃ³zsef KovÃ¡cs,HUN,NaN,NaN
+563,"10,000 metres",1956,M,3,Bronze,Al Lawrence,AUS,NaN,NaN
+564,Marathon,1956,M,1,Gold,Alain Mimoun,FRA,8700.0,NaN
+565,Marathon,1956,M,2,Silver,Franjo MihaliÄ,YUG,8792.0,NaN
+566,Marathon,1956,M,3,Bronze,Veikko Karvonen,FIN,8867.0,NaN
+567,Long Jump,1956,M,1,Gold,Greg Bell,USA,NaN,7.83
+568,Long Jump,1956,M,2,Silver,John Bennett,USA,NaN,7.68
+569,Long Jump,1956,M,3,Bronze,Jorma Valkama,FIN,NaN,7.48
+570,Triple Jump,1956,M,1,Gold,Adhemar da Silva,BRA,NaN,16.35
+571,Triple Jump,1956,M,2,Silver,VilhjÃ¡lmur Einarsson,ISL,NaN,16.26
+572,Triple Jump,1956,M,3,Bronze,Vitold Kreyer,URS,NaN,16.02
+573,Shot Put,1956,M,1,Gold,Parry O'Brien,USA,NaN,18.57
+574,Shot Put,1956,M,2,Silver,Bill Nieder,USA,NaN,18.18
+575,Shot Put,1956,M,3,Bronze,JiÅÃ­ Skobla,TCH,NaN,17.65
+576,Discus Throw,1956,M,1,Gold,Al Oerter,USA,NaN,56.36
+577,Discus Throw,1956,M,2,Silver,Fortune Gordien,USA,NaN,54.81
+578,Discus Throw,1956,M,3,Bronze,Des Koch,USA,NaN,54.40
+579,Hammer Throw,1956,M,1,Gold,Hal Connolly,USA,NaN,63.19
+580,Hammer Throw,1956,M,2,Silver,Mikhail Krivonosov,URS,NaN,63.03
+581,Hammer Throw,1956,M,3,Bronze,Anatoly Samotsvetov,URS,NaN,62.56
+582,Javelin Throw,1956,M,1,Gold,Egil Danielsen,NOR,NaN,85.71
+583,Javelin Throw,1956,M,2,Silver,Janusz SidÅo,POL,NaN,79.98
+584,Javelin Throw,1956,M,3,Bronze,Viktor Tsybulenko,URS,NaN,79.50
+585,100 metres,1956,F,1,Gold,Betty Cuthbert,AUS,11.5,NaN
+586,100 metres,1956,F,2,Silver,Christa Stubnick,GER,11.7,NaN
+587,100 metres,1956,F,3,Bronze,Marlene Mathews,AUS,11.7,NaN
+588,200 metres,1956,F,1,Gold,Betty Cuthbert,AUS,23.4,NaN
+589,200 metres,1956,F,2,Silver,Christa Stubnick,GER,23.7,NaN
+590,200 metres,1956,F,3,Bronze,Marlene Mathews,AUS,23.8,NaN
+591,Long Jump,1956,F,1,Gold,ElÅ¼bieta KrzesiÅska,POL,NaN,6.35
+592,Long Jump,1956,F,2,Silver,Willye White,USA,NaN,6.09
+593,Long Jump,1956,F,3,Bronze,Nadezhda Dvalishvili,URS,NaN,6.07
+594,Shot Put,1956,F,1,Gold,Tamara Tyshkevich,URS,NaN,16.59
+595,Shot Put,1956,F,2,Silver,Galina Zybina,URS,NaN,16.53
+596,Shot Put,1956,F,3,Bronze,Marianne Werner,GER,NaN,15.61
+597,Discus Throw,1956,F,1,Gold,Olga FikotovÃ¡,TCH,NaN,53.69
+598,Discus Throw,1956,F,2,Silver,Irina Beglyakova,URS,NaN,52.54
+599,Discus Throw,1956,F,3,Bronze,Nina Romashkova-Ponomaryova,URS,NaN,52.02
+600,Javelin Throw,1956,F,1,Gold,Inese Jaunzeme,URS,NaN,53.86
+601,Javelin Throw,1956,F,2,Silver,Marlene Ahrens,CHI,NaN,50.38
+602,Javelin Throw,1956,F,3,Bronze,Nadezhda Konyayeva,URS,NaN,50.28
+603,100 metres,1960,M,1,Gold,Armin Hary,GER,10.2,NaN
+604,100 metres,1960,M,2,Silver,Dave Sime,USA,10.2,NaN
+605,100 metres,1960,M,3,Bronze,Peter Radford,GBR,10.3,NaN
+606,200 metres,1960,M,1,Gold,Livio Berruti,ITA,20.5,NaN
+607,200 metres,1960,M,2,Silver,Les Carney,USA,20.6,NaN
+608,200 metres,1960,M,3,Bronze,Abdou SÃ¨ye,FRA,20.7,NaN
+609,400 metres,1960,M,1,Gold,Otis Davis,USA,44.9,NaN
+610,400 metres,1960,M,2,Silver,Carl Kaufmann,GER,44.9,NaN
+611,400 metres,1960,M,3,Bronze,Malcolm Spence,RSA,45.5,NaN
+612,800 metres,1960,M,1,Gold,Peter Snell,NZL,106.3,NaN
+613,800 metres,1960,M,2,Silver,Roger Moens,BEL,106.5,NaN
+614,800 metres,1960,M,3,Bronze,George Kerr,WIF,107.1,NaN
+615,"1,500 metres",1960,M,1,Gold,Herb Elliott,AUS,215.6,NaN
+616,"1,500 metres",1960,M,2,Silver,Michel Jazy,FRA,218.4,NaN
+617,"1,500 metres",1960,M,3,Bronze,IstvÃ¡n RÃ³zsavÃ¶lgyi,HUN,219.2,NaN
+618,"5,000 metres",1960,M,1,Gold,Murray Halberg,NZL,823.4,NaN
+619,"5,000 metres",1960,M,2,Silver,Hans Grodotzki,GER,824.6,NaN
+620,"5,000 metres",1960,M,3,Bronze,Kazimierz Zimny,POL,824.8,NaN
+621,"10,000 metres",1960,M,1,Gold,Pyotr Bolotnikov,URS,NaN,NaN
+622,"10,000 metres",1960,M,2,Silver,Hans Grodotzki,GER,NaN,NaN
+623,"10,000 metres",1960,M,3,Bronze,Dave Power,AUS,NaN,NaN
+624,Marathon,1960,M,1,Gold,Abebe Bikila,ETH,8116.2,NaN
+625,Marathon,1960,M,2,Silver,Rhadi Ben Abdesselam,MAR,8141.6,NaN
+626,Marathon,1960,M,3,Bronze,Barry Magee,NZL,8238.2,NaN
+627,Long Jump,1960,M,1,Gold,Ralph Boston,USA,NaN,8.12
+628,Long Jump,1960,M,2,Silver,Bo Roberson,USA,NaN,8.11
+629,Long Jump,1960,M,3,Bronze,Igor Ter-Ovanesyan,URS,NaN,8.04
+630,Triple Jump,1960,M,1,Gold,JÃ³zef Szmidt,POL,NaN,16.81
+631,Triple Jump,1960,M,2,Silver,Vladimir Goryayev,URS,NaN,16.63
+632,Triple Jump,1960,M,3,Bronze,Vitold Kreyer,URS,NaN,16.43
+633,Shot Put,1960,M,1,Gold,Bill Nieder,USA,NaN,19.68
+634,Shot Put,1960,M,2,Silver,Parry O'Brien,USA,NaN,19.11
+635,Shot Put,1960,M,3,Bronze,Dallas Long,USA,NaN,19.01
+636,Discus Throw,1960,M,1,Gold,Al Oerter,USA,NaN,59.18
+637,Discus Throw,1960,M,2,Silver,Rink Babka,USA,NaN,58.02
+638,Discus Throw,1960,M,3,Bronze,Dick Cochran,USA,NaN,57.16
+639,Hammer Throw,1960,M,1,Gold,Vasily Rudenkov,URS,NaN,67.10
+640,Hammer Throw,1960,M,2,Silver,Gyula ZsivÃ³tzky,HUN,NaN,65.79
+641,Hammer Throw,1960,M,3,Bronze,Tadeusz Rut,POL,NaN,65.64
+642,Javelin Throw,1960,M,1,Gold,Viktor Tsybulenko,URS,NaN,84.64
+643,Javelin Throw,1960,M,2,Silver,Walter KrÃ¼ger,GER,NaN,79.36
+644,Javelin Throw,1960,M,3,Bronze,Gergely KulcsÃ¡r,HUN,NaN,78.57
+645,100 metres,1960,F,1,Gold,Wilma Rudolph,USA,11.0,NaN
+646,100 metres,1960,F,2,Silver,Dorothy Hyman,GBR,11.3,NaN
+647,100 metres,1960,F,3,Bronze,Giuseppina Leone,ITA,11.3,NaN
+648,200 metres,1960,F,1,Gold,Wilma Rudolph,USA,24.0,NaN
+649,200 metres,1960,F,2,Silver,Jutta Heine,GER,24.4,NaN
+650,200 metres,1960,F,3,Bronze,Dorothy Hyman,GBR,24.7,NaN
+651,800 metres,1960,F,1,Gold,Lyudmila Lysenko,URS,124.3,NaN
+652,800 metres,1960,F,2,Silver,Brenda Jones,AUS,124.4,NaN
+653,800 metres,1960,F,3,Bronze,Ulla Donath,GER,125.6,NaN
+654,Long Jump,1960,F,1,Gold,Vera Krepkina,URS,NaN,6.37
+655,Long Jump,1960,F,2,Silver,ElÅ¼bieta KrzesiÅska,POL,NaN,6.27
+656,Long Jump,1960,F,3,Bronze,Hildrun Claus,GER,NaN,6.21
+657,Shot Put,1960,F,1,Gold,Tamara Press,URS,NaN,17.32
+658,Shot Put,1960,F,2,Silver,Johanna LÃ¼ttge,GER,NaN,16.61
+659,Shot Put,1960,F,3,Bronze,Earlene Brown,USA,NaN,16.42
+660,Discus Throw,1960,F,1,Gold,Nina Romashkova-Ponomaryova,URS,NaN,55.10
+661,Discus Throw,1960,F,2,Silver,Tamara Press,URS,NaN,52.59
+662,Discus Throw,1960,F,3,Bronze,Lia Manoliu,ROU,NaN,52.36
+663,Javelin Throw,1960,F,1,Gold,ElvÄ«ra OzoliÅa,URS,NaN,55.98
+664,Javelin Throw,1960,F,2,Silver,Dana ZÃ¡topkovÃ¡,TCH,NaN,53.78
+665,Javelin Throw,1960,F,3,Bronze,BirutÄ KalÄdienÄ,URS,NaN,53.45
+666,100 metres,1964,M,1,Gold,Bob Hayes,USA,10.0,NaN
+667,100 metres,1964,M,2,Silver,Enrique Figuerola,CUB,10.2,NaN
+668,100 metres,1964,M,3,Bronze,Harry Jerome,CAN,10.2,NaN
+669,200 metres,1964,M,1,Gold,Henry Carr,USA,20.3,NaN
+670,200 metres,1964,M,2,Silver,Paul Drayton,USA,20.5,NaN
+671,200 metres,1964,M,3,Bronze,Edwin Roberts,TTO,20.6,NaN
+672,400 metres,1964,M,1,Gold,Mike Larrabee,USA,45.1,NaN
+673,400 metres,1964,M,2,Silver,Wendell Mottley,TTO,45.2,NaN
+674,400 metres,1964,M,3,Bronze,Andrzej BadeÅski,POL,45.6,NaN
+675,800 metres,1964,M,1,Gold,Peter Snell,NZL,105.1,NaN
+676,800 metres,1964,M,2,Silver,Bill Crothers,CAN,105.6,NaN
+677,800 metres,1964,M,3,Bronze,Wilson Kiprugut,KEN,105.9,NaN
+678,"1,500 metres",1964,M,1,Gold,Peter Snell,NZL,218.1,NaN
+679,"1,500 metres",1964,M,2,Silver,Josef OdloÅ¾il,TCH,219.6,NaN
+680,"1,500 metres",1964,M,3,Bronze,John Davies,NZL,219.6,NaN
+681,"5,000 metres",1964,M,1,Gold,Bob Schul,USA,828.8,NaN
+682,"5,000 metres",1964,M,2,Silver,Harald Norpoth,GER,829.6,NaN
+683,"5,000 metres",1964,M,3,Bronze,Bill Dellinger,USA,829.8,NaN
+684,"10,000 metres",1964,M,1,Gold,Billy Mills,USA,NaN,NaN
+685,"10,000 metres",1964,M,2,Silver,Mohamad Gammoudi,TUN,NaN,NaN
+686,"10,000 metres",1964,M,3,Bronze,Ron Clarke,AUS,NaN,NaN
+687,Marathon,1964,M,1,Gold,Abebe Bikila,ETH,7931.2,NaN
+688,Marathon,1964,M,2,Silver,Basil Heatley,GBR,8179.2,NaN
+689,Marathon,1964,M,3,Bronze,Kokichi Tsuburaya,JPN,8182.8,NaN
+690,Long Jump,1964,M,1,Gold,Lynn Davies,GBR,NaN,8.07
+691,Long Jump,1964,M,2,Silver,Ralph Boston,USA,NaN,8.03
+692,Long Jump,1964,M,3,Bronze,Igor Ter-Ovanesyan,URS,NaN,7.99
+693,Triple Jump,1964,M,1,Gold,JÃ³zef Szmidt,POL,NaN,16.85
+694,Triple Jump,1964,M,2,Silver,Oleg Fedoseyev,URS,NaN,16.58
+695,Triple Jump,1964,M,3,Bronze,Viktor Kravchenko,URS,NaN,16.57
+696,Shot Put,1964,M,1,Gold,Dallas Long,USA,NaN,20.33
+697,Shot Put,1964,M,2,Silver,Randy Matson,USA,NaN,20.20
+698,Shot Put,1964,M,3,Bronze,Vilmos VarjÃº,HUN,NaN,19.39
+699,Discus Throw,1964,M,1,Gold,Al Oerter,USA,NaN,61.00
+700,Discus Throw,1964,M,2,Silver,LudvÃ­k DanÄk,TCH,NaN,60.52
+701,Discus Throw,1964,M,3,Bronze,Dave Weill,USA,NaN,59.49
+702,Hammer Throw,1964,M,1,Gold,Romuald Klim,URS,NaN,69.74
+703,Hammer Throw,1964,M,2,Silver,Gyula ZsivÃ³tzky,HUN,NaN,69.09
+704,Hammer Throw,1964,M,3,Bronze,Uwe Beyer,GER,NaN,68.09
+705,Javelin Throw,1964,M,1,Gold,Pauli Nevala,FIN,NaN,82.66
+706,Javelin Throw,1964,M,2,Silver,Gergely KulcsÃ¡r,HUN,NaN,82.32
+707,Javelin Throw,1964,M,3,Bronze,JÄnis LÅ«sis,URS,NaN,80.57
+708,100 metres,1964,F,1,Gold,Wyomia Tyus,USA,11.4,NaN
+709,100 metres,1964,F,2,Silver,Edith McGuire,USA,11.6,NaN
+710,100 metres,1964,F,3,Bronze,Ewa KÅobukowska,POL,11.6,NaN
+711,200 metres,1964,F,1,Gold,Edith McGuire,USA,23.0,NaN
+712,200 metres,1964,F,2,Silver,Irena Kirszenstein,POL,23.1,NaN
+713,200 metres,1964,F,3,Bronze,Marilyn Black,AUS,23.1,NaN
+714,400 metres,1964,F,1,Gold,Betty Cuthbert,AUS,52.0,NaN
+715,400 metres,1964,F,2,Silver,Ann Packer,GBR,52.2,NaN
+716,400 metres,1964,F,3,Bronze,Judy Amoore,AUS,53.4,NaN
+717,800 metres,1964,F,1,Gold,Ann Packer,GBR,121.1,NaN
+718,800 metres,1964,F,2,Silver,Maryvonne Dupureur,FRA,121.9,NaN
+719,800 metres,1964,F,3,Bronze,Marise Chamberlain,NZL,122.8,NaN
+720,Long Jump,1964,F,1,Gold,Mary Rand,GBR,NaN,6.76
+721,Long Jump,1964,F,2,Silver,Irena Kirszenstein,POL,NaN,6.60
+722,Long Jump,1964,F,3,Bronze,Tatyana Shchelkanova,URS,NaN,6.42
+723,Shot Put,1964,F,1,Gold,Tamara Press,URS,NaN,18.14
+724,Shot Put,1964,F,2,Silver,Renate Garisch-Culmberger,GER,NaN,17.61
+725,Shot Put,1964,F,3,Bronze,Galina Zybina,URS,NaN,17.45
+726,Discus Throw,1964,F,1,Gold,Tamara Press,URS,NaN,57.27
+727,Discus Throw,1964,F,2,Silver,Ingrid Lotz,GER,NaN,57.21
+728,Discus Throw,1964,F,3,Bronze,Lia Manoliu,ROU,NaN,56.97
+729,Javelin Throw,1964,F,1,Gold,Mihaela PeneÈ,ROU,NaN,60.54
+730,Javelin Throw,1964,F,2,Silver,MÃ¡rta Antal-Rudas,HUN,NaN,58.27
+731,Javelin Throw,1964,F,3,Bronze,Yelena Gorchakova,URS,NaN,57.06
+732,100 metres,1968,M,1,Gold,Jim Hines,USA,9.9,NaN
+733,100 metres,1968,M,2,Silver,Lennox Miller,JAM,10.0,NaN
+734,100 metres,1968,M,3,Bronze,Charlie Greene,USA,10.0,NaN
+735,200 metres,1968,M,1,Gold,Tommie Smith,USA,19.8,NaN
+736,200 metres,1968,M,2,Silver,Peter Norman,AUS,20.0,NaN
+737,200 metres,1968,M,3,Bronze,John Carlos,USA,20.0,NaN
+738,400 metres,1968,M,1,Gold,Lee Evans,USA,43.8,NaN
+739,400 metres,1968,M,2,Silver,Larry James,USA,43.9,NaN
+740,400 metres,1968,M,3,Bronze,Ron Freeman,USA,44.4,NaN
+741,800 metres,1968,M,1,Gold,Ralph Doubell,AUS,104.3,NaN
+742,800 metres,1968,M,2,Silver,Wilson Kiprugut,KEN,104.5,NaN
+743,800 metres,1968,M,3,Bronze,Tom Farrell,USA,105.4,NaN
+744,"1,500 metres",1968,M,1,Gold,Kip Keino,KEN,214.9,NaN
+745,"1,500 metres",1968,M,2,Silver,Jim Ryun,USA,217.8,NaN
+746,"1,500 metres",1968,M,3,Bronze,Bodo TÃ¼mmler,FRG,219.0,NaN
+747,"5,000 metres",1968,M,1,Gold,Mohamad Gammoudi,TUN,845.0,NaN
+748,"5,000 metres",1968,M,2,Silver,Kip Keino,KEN,845.2,NaN
+749,"5,000 metres",1968,M,3,Bronze,Naftali Temu,KEN,846.4,NaN
+750,"10,000 metres",1968,M,1,Gold,Naftali Temu,KEN,NaN,NaN
+751,"10,000 metres",1968,M,2,Silver,Mamo Wolde,ETH,NaN,NaN
+752,"10,000 metres",1968,M,3,Bronze,Mohamad Gammoudi,TUN,NaN,NaN
+753,Marathon,1968,M,1,Gold,Mamo Wolde,ETH,8426.4,NaN
+754,Marathon,1968,M,2,Silver,Kenji Kimihara,JPN,8611.0,NaN
+755,Marathon,1968,M,3,Bronze,Mike Ryan,NZL,8625.0,NaN
+756,Long Jump,1968,M,1,Gold,Bob Beamon,USA,NaN,8.90
+757,Long Jump,1968,M,2,Silver,Klaus Beer,GDR,NaN,8.19
+758,Long Jump,1968,M,3,Bronze,Ralph Boston,USA,NaN,8.16
+759,Triple Jump,1968,M,1,Gold,Viktor Saneyev,URS,NaN,17.39
+760,Triple Jump,1968,M,2,Silver,NÃ©lson PrudÃªncio,BRA,NaN,17.27
+761,Triple Jump,1968,M,3,Bronze,Giuseppe Gentile,ITA,NaN,17.22
+762,Shot Put,1968,M,1,Gold,Randy Matson,USA,NaN,20.54
+763,Shot Put,1968,M,2,Silver,George Woods,USA,NaN,20.12
+764,Shot Put,1968,M,3,Bronze,Eduard Gushchin,URS,NaN,20.09
+765,Discus Throw,1968,M,1,Gold,Al Oerter,USA,NaN,64.78
+766,Discus Throw,1968,M,2,Silver,Lothar Milde,GDR,NaN,63.08
+767,Discus Throw,1968,M,3,Bronze,LudvÃ­k DanÄk,TCH,NaN,62.92
+768,Hammer Throw,1968,M,1,Gold,Gyula ZsivÃ³tzky,HUN,NaN,73.36
+769,Hammer Throw,1968,M,2,Silver,Romuald Klim,URS,NaN,73.28
+770,Hammer Throw,1968,M,3,Bronze,LÃ¡zÃ¡r LovÃ¡sz,HUN,NaN,69.78
+771,Javelin Throw,1968,M,1,Gold,JÄnis LÅ«sis,URS,NaN,90.10
+772,Javelin Throw,1968,M,2,Silver,Jorma Kinnunen,FIN,NaN,88.58
+773,Javelin Throw,1968,M,3,Bronze,Gergely KulcsÃ¡r,HUN,NaN,87.06
+774,100 metres,1968,F,1,Gold,Wyomia Tyus,USA,11.0,NaN
+775,100 metres,1968,F,2,Silver,Barbara Ferrell,USA,11.1,NaN
+776,100 metres,1968,F,3,Bronze,Irena SzewiÅska,POL,11.1,NaN
+777,200 metres,1968,F,1,Gold,Irena SzewiÅska,POL,22.5,NaN
+778,200 metres,1968,F,2,Silver,Raelene Boyle,AUS,22.7,NaN
+779,200 metres,1968,F,3,Bronze,Jennifer Lamy,AUS,22.8,NaN
+780,400 metres,1968,F,1,Gold,Colette Besson,FRA,52.0,NaN
+781,400 metres,1968,F,2,Silver,Lillian Board,GBR,52.1,NaN
+782,400 metres,1968,F,3,Bronze,Nataliya Pechenkina,URS,52.2,NaN
+783,800 metres,1968,F,1,Gold,Madeline Manning,USA,120.9,NaN
+784,800 metres,1968,F,2,Silver,Ileana Silai,ROU,122.5,NaN
+785,800 metres,1968,F,3,Bronze,Mia Gommers,NED,122.6,NaN
+786,Long Jump,1968,F,1,Gold,Viorica Viscopoleanu,ROU,NaN,6.82
+787,Long Jump,1968,F,2,Silver,Sheila Sherwood,GBR,NaN,6.68
+788,Long Jump,1968,F,3,Bronze,Tatyana Talysheva,URS,NaN,6.66
+789,Shot Put,1968,F,1,Gold,Margitta Gummel,GDR,NaN,19.61
+790,Shot Put,1968,F,2,Silver,Marita Lange,GDR,NaN,18.78
+791,Shot Put,1968,F,3,Bronze,Nadezhda Chizhova,URS,NaN,18.19
+792,Discus Throw,1968,F,1,Gold,Lia Manoliu,ROU,NaN,58.28
+793,Discus Throw,1968,F,2,Silver,Liesel Westermann,FRG,NaN,57.76
+794,Discus Throw,1968,F,3,Bronze,JolÃ¡n Kleiber-Kontsek,HUN,NaN,54.90
+795,Javelin Throw,1968,F,1,Gold,AngÃ©la NÃ©meth,HUN,NaN,60.36
+796,Javelin Throw,1968,F,2,Silver,Mihaela PeneÈ,ROU,NaN,59.92
+797,Javelin Throw,1968,F,3,Bronze,Eva Janko,AUT,NaN,58.04
+798,100 metres,1972,M,1,Gold,Valery Borzov,URS,10.14,NaN
+799,100 metres,1972,M,2,Silver,Robert Taylor,USA,10.24,NaN
+800,100 metres,1972,M,3,Bronze,Lennox Miller,JAM,10.33,NaN
+801,200 metres,1972,M,1,Gold,Valery Borzov,URS,20.0,NaN
+802,200 metres,1972,M,2,Silver,Larry Black,USA,20.19,NaN
+803,200 metres,1972,M,3,Bronze,Pietro Mennea,ITA,20.3,NaN
+804,400 metres,1972,M,1,Gold,Vince Matthews,USA,44.66,NaN
+805,400 metres,1972,M,2,Silver,Wayne Collett,USA,44.8,NaN
+806,400 metres,1972,M,3,Bronze,Julius Sang,KEN,44.92,NaN
+807,800 metres,1972,M,1,Gold,Dave Wottle,USA,105.86,NaN
+808,800 metres,1972,M,2,Silver,Yevgeny Arzhanov,URS,105.89,NaN
+809,800 metres,1972,M,3,Bronze,Mike Boit,KEN,106.00999999999999,NaN
+810,"1,500 metres",1972,M,1,Gold,Pekka Vasala,FIN,216.32999999999998,NaN
+811,"1,500 metres",1972,M,2,Silver,Kip Keino,KEN,216.81,NaN
+812,"1,500 metres",1972,M,3,Bronze,Rod Dixon,NZL,217.46,NaN
+813,"5,000 metres",1972,M,1,Gold,Lasse VirÃ©n,FIN,806.42,NaN
+814,"5,000 metres",1972,M,2,Silver,Mohamad Gammoudi,TUN,807.33,NaN
+815,"5,000 metres",1972,M,3,Bronze,Ian Stewart,GBR,807.61,NaN
+816,"10,000 metres",1972,M,1,Gold,Lasse VirÃ©n,FIN,1658.35,NaN
+817,"10,000 metres",1972,M,2,Silver,Miel Puttemans,BEL,1659.58,NaN
+818,"10,000 metres",1972,M,3,Bronze,Miruts Yifter,ETH,1660.96,NaN
+819,Marathon,1972,M,1,Gold,Frank Shorter,USA,7939.8,NaN
+820,Marathon,1972,M,2,Silver,Karel Lismont,BEL,8071.8,NaN
+821,Marathon,1972,M,3,Bronze,Mamo Wolde,ETH,8108.4,NaN
+822,Long Jump,1972,M,1,Gold,Randy Williams,USA,NaN,8.24
+823,Long Jump,1972,M,2,Silver,Hans Baumgartner,FRG,NaN,8.18
+824,Long Jump,1972,M,3,Bronze,Arnie Robinson,USA,NaN,8.03
+825,Triple Jump,1972,M,1,Gold,Viktor Saneyev,URS,NaN,17.35
+826,Triple Jump,1972,M,2,Silver,JÃ¶rg Drehmel,GDR,NaN,17.31
+827,Triple Jump,1972,M,3,Bronze,NÃ©lson PrudÃªncio,BRA,NaN,17.05
+828,Shot Put,1972,M,1,Gold,WÅadysÅaw Komar,POL,NaN,21.18
+829,Shot Put,1972,M,2,Silver,George Woods,USA,NaN,21.17
+830,Shot Put,1972,M,3,Bronze,Hartmut Briesenick,GDR,NaN,21.14
+831,Discus Throw,1972,M,1,Gold,LudvÃ­k DanÄk,TCH,NaN,64.40
+832,Discus Throw,1972,M,2,Silver,Jay Silvester,USA,NaN,63.50
+833,Discus Throw,1972,M,3,Bronze,Ricky Bruch,SWE,NaN,63.40
+834,Hammer Throw,1972,M,1,Gold,Anatoly Bondarchuk,URS,NaN,75.50
+835,Hammer Throw,1972,M,2,Silver,Jochen Sachse,GDR,NaN,74.96
+836,Hammer Throw,1972,M,3,Bronze,Vasily Khmelevsky,URS,NaN,74.04
+837,Javelin Throw,1972,M,1,Gold,Klaus Wolfermann,FRG,NaN,90.48
+838,Javelin Throw,1972,M,2,Silver,JÄnis LÅ«sis,URS,NaN,90.46
+839,Javelin Throw,1972,M,3,Bronze,Bill Schmidt,USA,NaN,84.42
+840,100 metres,1972,F,1,Gold,Renate Stecher,GDR,11.07,NaN
+841,100 metres,1972,F,2,Silver,Raelene Boyle,AUS,11.23,NaN
+842,100 metres,1972,F,3,Bronze,Silvia ChivÃ¡s,CUB,11.24,NaN
+843,200 metres,1972,F,1,Gold,Renate Stecher,GDR,22.4,NaN
+844,200 metres,1972,F,2,Silver,Raelene Boyle,AUS,22.45,NaN
+845,200 metres,1972,F,3,Bronze,Irena SzewiÅska,POL,22.74,NaN
+846,400 metres,1972,F,1,Gold,Monika Zehrt,GDR,51.08,NaN
+847,400 metres,1972,F,2,Silver,Rita Wilden,FRG,51.21,NaN
+848,400 metres,1972,F,3,Bronze,Kathy Hammond,USA,51.64,NaN
+849,800 metres,1972,F,1,Gold,Hildegard Falck,FRG,118.55,NaN
+850,800 metres,1972,F,2,Silver,NijolÄ SabaitÄ,URS,118.65,NaN
+851,800 metres,1972,F,3,Bronze,Gunhild Hoffmeister,GDR,119.19,NaN
+852,"1,500 metres",1972,F,1,Gold,Lyudmila Bragina,URS,241.38,NaN
+853,"1,500 metres",1972,F,2,Silver,Gunhild Hoffmeister,GDR,242.83,NaN
+854,"1,500 metres",1972,F,3,Bronze,Paola Cacchi,ITA,242.85,NaN
+855,Long Jump,1972,F,1,Gold,Heide Rosendahl,FRG,NaN,6.78
+856,Long Jump,1972,F,2,Silver,Diana Yorgova,BUL,NaN,6.77
+857,Long Jump,1972,F,3,Bronze,Eva Å uranovÃ¡,TCH,NaN,6.67
+858,Shot Put,1972,F,1,Gold,Nadezhda Chizhova,URS,NaN,21.03
+859,Shot Put,1972,F,2,Silver,Margitta Gummel,GDR,NaN,20.22
+860,Shot Put,1972,F,3,Bronze,Ivanka Hristova,BUL,NaN,19.35
+861,Discus Throw,1972,F,1,Gold,Faina Melnik,URS,NaN,66.62
+862,Discus Throw,1972,F,2,Silver,Argentina Menis,ROU,NaN,65.06
+863,Discus Throw,1972,F,3,Bronze,Vasilka Stoeva,BUL,NaN,64.34
+864,Javelin Throw,1972,F,1,Gold,Ruth Fuchs,GDR,NaN,63.88
+865,Javelin Throw,1972,F,2,Silver,Jacqueline Todten,GDR,NaN,62.54
+866,Javelin Throw,1972,F,3,Bronze,Kate Schmidt,USA,NaN,59.94
+867,100 metres,1976,M,1,Gold,Hasely Crawford,TTO,10.06,NaN
+868,100 metres,1976,M,2,Silver,Don Quarrie,JAM,10.08,NaN
+869,100 metres,1976,M,3,Bronze,Valery Borzov,URS,10.14,NaN
+870,200 metres,1976,M,1,Gold,Don Quarrie,JAM,20.23,NaN
+871,200 metres,1976,M,2,Silver,Millard Hampton,USA,20.29,NaN
+872,200 metres,1976,M,3,Bronze,Dwayne Evans,USA,20.43,NaN
+873,400 metres,1976,M,1,Gold,Alberto Juantorena,CUB,44.26,NaN
+874,400 metres,1976,M,2,Silver,Fred Newhouse,USA,44.4,NaN
+875,400 metres,1976,M,3,Bronze,Herman Frazier,USA,44.95,NaN
+876,800 metres,1976,M,1,Gold,Alberto Juantorena,CUB,103.5,NaN
+877,800 metres,1976,M,2,Silver,Ivo Van Damme,BEL,103.86,NaN
+878,800 metres,1976,M,3,Bronze,Rick Wohlhuter,USA,104.12,NaN
+879,"1,500 metres",1976,M,1,Gold,John Walker,NZL,219.17000000000002,NaN
+880,"1,500 metres",1976,M,2,Silver,Ivo Van Damme,BEL,219.27,NaN
+881,"1,500 metres",1976,M,3,Bronze,Paul-Heinz Wellmann,FRG,219.32999999999998,NaN
+882,"5,000 metres",1976,M,1,Gold,Lasse VirÃ©n,FIN,804.76,NaN
+883,"5,000 metres",1976,M,2,Silver,Dick Quax,NZL,805.16,NaN
+884,"5,000 metres",1976,M,3,Bronze,Klaus-Peter Hildenbrand,FRG,805.38,NaN
+885,"10,000 metres",1976,M,1,Gold,Lasse VirÃ©n,FIN,1660.38,NaN
+886,"10,000 metres",1976,M,2,Silver,Carlos Lopes,POR,1665.17,NaN
+887,"10,000 metres",1976,M,3,Bronze,Brendan Foster,GBR,1674.92,NaN
+888,Marathon,1976,M,1,Gold,Waldemar Cierpinski,GDR,7795.0,NaN
+889,Marathon,1976,M,2,Silver,Frank Shorter,USA,7845.8,NaN
+890,Marathon,1976,M,3,Bronze,Karel Lismont,BEL,7872.6,NaN
+891,Long Jump,1976,M,1,Gold,Arnie Robinson,USA,NaN,8.35
+892,Long Jump,1976,M,2,Silver,Randy Williams,USA,NaN,8.11
+893,Long Jump,1976,M,3,Bronze,Frank Wartenberg,GDR,NaN,8.02
+894,Triple Jump,1976,M,1,Gold,Viktor Saneyev,URS,NaN,17.29
+895,Triple Jump,1976,M,2,Silver,James Butts,USA,NaN,17.18
+896,Triple Jump,1976,M,3,Bronze,JoÃ£o do Pulo,BRA,NaN,16.90
+897,Shot Put,1976,M,1,Gold,Udo Beyer,GDR,NaN,21.05
+898,Shot Put,1976,M,2,Silver,Yevgeny Mironov,URS,NaN,21.03
+899,Shot Put,1976,M,3,Bronze,Aleksandr Baryshnikov,URS,NaN,21.00
+900,Discus Throw,1976,M,1,Gold,Mac Wilkins,USA,NaN,67.50
+901,Discus Throw,1976,M,2,Silver,Wolfgang Schmidt,GDR,NaN,66.22
+902,Discus Throw,1976,M,3,Bronze,John Powell,USA,NaN,65.70
+903,Hammer Throw,1976,M,1,Gold,Yury Sedykh,URS,NaN,77.52
+904,Hammer Throw,1976,M,2,Silver,Aleksey Spiridonov,URS,NaN,76.08
+905,Hammer Throw,1976,M,3,Bronze,Anatoly Bondarchuk,URS,NaN,75.48
+906,Javelin Throw,1976,M,1,Gold,MiklÃ³s NÃ©meth,HUN,NaN,94.58
+907,Javelin Throw,1976,M,2,Silver,Hannu Siitonen,FIN,NaN,87.92
+908,Javelin Throw,1976,M,3,Bronze,Gheorghe Megelea,ROU,NaN,87.16
+909,100 metres,1976,F,1,Gold,Annegret Richter,FRG,11.08,NaN
+910,100 metres,1976,F,2,Silver,Renate Stecher,GDR,11.13,NaN
+911,100 metres,1976,F,3,Bronze,Inge Helten,FRG,11.17,NaN
+912,200 metres,1976,F,1,Gold,BÃ¤rbel Eckert,GDR,22.37,NaN
+913,200 metres,1976,F,2,Silver,Annegret Richter,FRG,22.39,NaN
+914,200 metres,1976,F,3,Bronze,Renate Stecher,GDR,22.47,NaN
+915,400 metres,1976,F,1,Gold,Irena SzewiÅska,POL,49.28,NaN
+916,400 metres,1976,F,2,Silver,Christina Brehmer,GDR,50.51,NaN
+917,400 metres,1976,F,3,Bronze,Ellen Streidt,GDR,50.55,NaN
+918,800 metres,1976,F,1,Gold,Tatyana Kazankina,URS,114.94,NaN
+919,800 metres,1976,F,2,Silver,Nikolina Shtereva,BUL,115.42,NaN
+920,800 metres,1976,F,3,Bronze,Elfi Zinn,GDR,115.6,NaN
+921,"1,500 metres",1976,F,1,Gold,Tatyana Kazankina,URS,245.48,NaN
+922,"1,500 metres",1976,F,2,Silver,Gunhild Hoffmeister,GDR,246.02,NaN
+923,"1,500 metres",1976,F,3,Bronze,Ulrike Klapezynski,GDR,246.09,NaN
+924,Long Jump,1976,F,1,Gold,Angela Voigt,GDR,NaN,6.72
+925,Long Jump,1976,F,2,Silver,Kathy McMillan,USA,NaN,6.66
+926,Long Jump,1976,F,3,Bronze,Lidiya Alfeyeva,URS,NaN,6.60
+927,Shot Put,1976,F,1,Gold,Ivanka Hristova,BUL,NaN,21.16
+928,Shot Put,1976,F,2,Silver,Nadezhda Chizhova,URS,NaN,20.96
+929,Shot Put,1976,F,3,Bronze,Helena FibingerovÃ¡,TCH,NaN,20.67
+930,Discus Throw,1976,F,1,Gold,Evelin Schlaak,GDR,NaN,69.00
+931,Discus Throw,1976,F,2,Silver,Mariya Vergova,BUL,NaN,67.30
+932,Discus Throw,1976,F,3,Bronze,Gabriele Hinzmann,GDR,NaN,66.84
+933,Javelin Throw,1976,F,1,Gold,Ruth Fuchs,GDR,NaN,65.94
+934,Javelin Throw,1976,F,2,Silver,Marion Becker,FRG,NaN,64.70
+935,Javelin Throw,1976,F,3,Bronze,Kate Schmidt,USA,NaN,63.96
+936,100 metres,1980,M,1,Gold,Allan Wells,GBR,10.25,NaN
+937,100 metres,1980,M,2,Silver,Silvio Leonard,CUB,10.25,NaN
+938,100 metres,1980,M,3,Bronze,Petar Petrov,BUL,10.39,NaN
+939,200 metres,1980,M,1,Gold,Pietro Mennea,ITA,20.19,NaN
+940,200 metres,1980,M,2,Silver,Allan Wells,GBR,20.21,NaN
+941,200 metres,1980,M,3,Bronze,Don Quarrie,JAM,20.29,NaN
+942,400 metres,1980,M,1,Gold,Viktor Markin,URS,44.6,NaN
+943,400 metres,1980,M,2,Silver,Rick Mitchell,AUS,44.84,NaN
+944,400 metres,1980,M,3,Bronze,Frank Schaffer,GDR,44.87,NaN
+945,800 metres,1980,M,1,Gold,Steve Ovett,GBR,105.4,NaN
+946,800 metres,1980,M,2,Silver,Seb Coe,GBR,105.9,NaN
+947,800 metres,1980,M,3,Bronze,Nikolay Kirov,URS,106.0,NaN
+948,"1,500 metres",1980,M,1,Gold,Seb Coe,GBR,218.4,NaN
+949,"1,500 metres",1980,M,2,Silver,JÃ¼rgen Straub,GDR,218.8,NaN
+950,"1,500 metres",1980,M,3,Bronze,Steve Ovett,GBR,219.0,NaN
+951,"5,000 metres",1980,M,1,Gold,Miruts Yifter,ETH,801.0,NaN
+952,"5,000 metres",1980,M,2,Silver,Suleiman Nyambui,TAN,801.6,NaN
+953,"5,000 metres",1980,M,3,Bronze,Kaarlo Maaninka,FIN,802.0,NaN
+954,"10,000 metres",1980,M,1,Gold,Miruts Yifter,ETH,1662.7,NaN
+955,"10,000 metres",1980,M,2,Silver,Kaarlo Maaninka,FIN,1664.3,NaN
+956,"10,000 metres",1980,M,3,Bronze,Mohamed Kedir,ETH,1664.7,NaN
+957,Marathon,1980,M,1,Gold,Waldemar Cierpinski,GDR,7863.0,NaN
+958,Marathon,1980,M,2,Silver,Gerard Nijboer,NED,7880.0,NaN
+959,Marathon,1980,M,3,Bronze,Satymkul Dzhumanazarov,URS,7895.0,NaN
+960,Long Jump,1980,M,1,Gold,Lutz Dombrowski,GDR,NaN,8.54
+961,Long Jump,1980,M,2,Silver,Frank Paschek,GDR,NaN,8.21
+962,Long Jump,1980,M,3,Bronze,Valery Podluzhny,URS,NaN,8.18
+963,Triple Jump,1980,M,1,Gold,Jaak UudmÃ¤e,URS,NaN,17.35
+964,Triple Jump,1980,M,2,Silver,Viktor Saneyev,URS,NaN,17.24
+965,Triple Jump,1980,M,3,Bronze,JoÃ£o do Pulo,BRA,NaN,17.22
+966,Shot Put,1980,M,1,Gold,Vladimir Kiselyov,URS,NaN,21.35
+967,Shot Put,1980,M,2,Silver,Aleksandr Baryshnikov,URS,NaN,21.08
+968,Shot Put,1980,M,3,Bronze,Udo Beyer,GDR,NaN,21.06
+969,Discus Throw,1980,M,1,Gold,Viktor Rashchupkin,URS,NaN,66.64
+970,Discus Throw,1980,M,2,Silver,Imrich BugÃ¡r,TCH,NaN,66.38
+971,Discus Throw,1980,M,3,Bronze,Luis DelÃ­s,CUB,NaN,66.32
+972,Hammer Throw,1980,M,1,Gold,Yury Sedykh,URS,NaN,81.80
+973,Hammer Throw,1980,M,2,Silver,Sergey Litvinov,URS,NaN,80.64
+974,Hammer Throw,1980,M,3,Bronze,JÃ¼ri Tamm,URS,NaN,78.96
+975,Javelin Throw,1980,M,1,Gold,Dainis KÅ«la,URS,NaN,91.20
+976,Javelin Throw,1980,M,2,Silver,Aleksandr Makarov,URS,NaN,89.64
+977,Javelin Throw,1980,M,3,Bronze,Wolfgang Hanisch,GDR,NaN,86.72
+978,100 metres,1980,F,1,Gold,Lyudmila Kondratyeva,URS,11.06,NaN
+979,100 metres,1980,F,2,Silver,Marlies GÃ¶hr,GDR,11.07,NaN
+980,100 metres,1980,F,3,Bronze,Ingrid Auerswald,GDR,11.14,NaN
+981,200 metres,1980,F,1,Gold,BÃ¤rbel WÃ¶ckel,GDR,22.03,NaN
+982,200 metres,1980,F,2,Silver,Nataliya Bochina,URS,22.19,NaN
+983,200 metres,1980,F,3,Bronze,Merlene Ottey,JAM,22.2,NaN
+984,400 metres,1980,F,1,Gold,Marita Koch,GDR,48.88,NaN
+985,400 metres,1980,F,2,Silver,Jarmila KratochvÃ­lovÃ¡,TCH,49.46,NaN
+986,400 metres,1980,F,3,Bronze,Christina Lathan,GDR,49.66,NaN
+987,800 metres,1980,F,1,Gold,Nadezhda Olizarenko,URS,113.5,NaN
+988,800 metres,1980,F,2,Silver,Olga Syrovatskaya-Mineyeva,URS,114.9,NaN
+989,800 metres,1980,F,3,Bronze,Tatyana Providokhina,URS,115.5,NaN
+990,"1,500 metres",1980,F,1,Gold,Tatyana Kazankina,URS,236.6,NaN
+991,"1,500 metres",1980,F,2,Silver,Christiane Wartenberg,GDR,237.8,NaN
+992,"1,500 metres",1980,F,3,Bronze,Nadezhda Olizarenko,URS,239.6,NaN
+993,Long Jump,1980,F,1,Gold,Tatyana Kolpakova,URS,NaN,7.06
+994,Long Jump,1980,F,2,Silver,Brigitte Wujak,GDR,NaN,7.04
+995,Long Jump,1980,F,3,Bronze,Tatyana Skachko,URS,NaN,7.01
+996,Shot Put,1980,F,1,Gold,Ilona Slupianek,GDR,NaN,22.41
+997,Shot Put,1980,F,2,Silver,Esfir Krachevskaya,URS,NaN,21.42
+998,Shot Put,1980,F,3,Bronze,Margitta Pufe,GDR,NaN,21.2
+999,Discus Throw,1980,F,1,Gold,Evelin Jahl,GDR,NaN,69.96
+1000,Discus Throw,1980,F,2,Silver,Mariya Petkova,BUL,NaN,67.90
+1001,Discus Throw,1980,F,3,Bronze,Tatyana Lesovaya,URS,NaN,67.40
+1002,Javelin Throw,1980,F,1,Gold,MarÃ­a ColÃ³n,CUB,NaN,68.40
+1003,Javelin Throw,1980,F,2,Silver,Saida Gunba,URS,NaN,67.76
+1004,Javelin Throw,1980,F,3,Bronze,Ute Hommola,GDR,NaN,66.56
+1005,100 metres,1984,M,1,Gold,Carl Lewis,USA,9.99,NaN
+1006,100 metres,1984,M,2,Silver,Sam Graddy,USA,10.19,NaN
+1007,100 metres,1984,M,3,Bronze,Ben Johnson,CAN,10.22,NaN
+1008,200 metres,1984,M,1,Gold,Carl Lewis,USA,19.8,NaN
+1009,200 metres,1984,M,2,Silver,Kirk Baptiste,USA,19.96,NaN
+1010,200 metres,1984,M,3,Bronze,Thomas Jefferson,USA,20.26,NaN
+1011,400 metres,1984,M,1,Gold,Alonzo Babers,USA,44.27,NaN
+1012,400 metres,1984,M,2,Silver,Gabriel Tiacoh,CIV,44.54,NaN
+1013,400 metres,1984,M,3,Bronze,Antonio McKay,USA,44.71,NaN
+1014,800 metres,1984,M,1,Gold,Joaquim Cruz,BRA,103.0,NaN
+1015,800 metres,1984,M,2,Silver,Seb Coe,GBR,103.64,NaN
+1016,800 metres,1984,M,3,Bronze,Earl Jones,USA,103.83,NaN
+1017,"1,500 metres",1984,M,1,Gold,Seb Coe,GBR,212.53,NaN
+1018,"1,500 metres",1984,M,2,Silver,Steve Cram,GBR,213.4,NaN
+1019,"1,500 metres",1984,M,3,Bronze,JosÃ© Manuel Abascal,ESP,214.3,NaN
+1020,"5,000 metres",1984,M,1,Gold,SaÃ¯d Aouita,MAR,785.59,NaN
+1021,"5,000 metres",1984,M,2,Silver,Markus Ryffel,SUI,787.54,NaN
+1022,"5,000 metres",1984,M,3,Bronze,AntÃ³nio LeitÃ£o,POR,789.2,NaN
+1023,"10,000 metres",1984,M,1,Gold,Alberto Cova,ITA,1667.54,NaN
+1024,"10,000 metres",1984,M,2,Silver,Mike McLeod,GBR,1686.22,NaN
+1025,"10,000 metres",1984,M,3,Bronze,Mike Musyoki,KEN,1686.46,NaN
+1026,Marathon,1984,M,1,Gold,Carlos Lopes,POR,7761.0,NaN
+1027,Marathon,1984,M,2,Silver,John Treacy,IRL,7796.0,NaN
+1028,Marathon,1984,M,3,Bronze,Charlie Spedding,GBR,7798.0,NaN
+1029,Long Jump,1984,M,1,Gold,Carl Lewis,USA,NaN,8.54
+1030,Long Jump,1984,M,2,Silver,Gary Honey,AUS,NaN,8.24
+1031,Long Jump,1984,M,3,Bronze,Giovanni Evangelisti,ITA,NaN,8.24
+1032,Triple Jump,1984,M,1,Gold,Al Joyner,USA,NaN,17.26
+1033,Triple Jump,1984,M,2,Silver,Mike Conley,USA,NaN,17.18
+1034,Triple Jump,1984,M,3,Bronze,Keith Connor,GBR,NaN,16.87
+1035,Shot Put,1984,M,1,Gold,Alessandro Andrei,ITA,NaN,21.26
+1036,Shot Put,1984,M,2,Silver,Mike Carter,USA,NaN,21.09
+1037,Shot Put,1984,M,3,Bronze,Dave Laut,USA,NaN,20.97
+1038,Discus Throw,1984,M,1,Gold,Rolf Danneberg,FRG,NaN,66.60
+1039,Discus Throw,1984,M,2,Silver,Mac Wilkins,USA,NaN,66.30
+1040,Discus Throw,1984,M,3,Bronze,John Powell,USA,NaN,65.46
+1041,Hammer Throw,1984,M,1,Gold,Juha Tiainen,FIN,NaN,78.08
+1042,Hammer Throw,1984,M,2,Silver,Karl-Hans Riehm,FRG,NaN,77.98
+1043,Hammer Throw,1984,M,3,Bronze,Klaus Ploghaus,FRG,NaN,76.68
+1044,Javelin Throw,1984,M,1,Gold,Arto HÃ¤rkÃ¶nen,FIN,NaN,86.76
+1045,Javelin Throw,1984,M,2,Silver,Dave Ottley,GBR,NaN,85.74
+1046,Javelin Throw,1984,M,3,Bronze,Kenth Eldebrink,SWE,NaN,83.72
+1047,100 metres,1984,F,1,Gold,Evelyn Ashford,USA,10.97,NaN
+1048,100 metres,1984,F,2,Silver,Alice Brown,USA,11.13,NaN
+1049,100 metres,1984,F,3,Bronze,Merlene Ottey-Page,JAM,11.16,NaN
+1050,200 metres,1984,F,1,Gold,Valerie Brisco-Hooks,USA,21.81,NaN
+1051,200 metres,1984,F,2,Silver,Florence Griffith,USA,22.04,NaN
+1052,200 metres,1984,F,3,Bronze,Merlene Ottey-Page,JAM,22.09,NaN
+1053,400 metres,1984,F,1,Gold,Valerie Brisco-Hooks,USA,48.83,NaN
+1054,400 metres,1984,F,2,Silver,Chandra Cheeseborough,USA,49.05,NaN
+1055,400 metres,1984,F,3,Bronze,Kathy Cook,GBR,49.43,NaN
+1056,800 metres,1984,F,1,Gold,Doina Melinte,ROU,117.6,NaN
+1057,800 metres,1984,F,2,Silver,Kim Gallagher,USA,118.63,NaN
+1058,800 metres,1984,F,3,Bronze,FiÈa Lovin,ROU,118.83,NaN
+1059,"1,500 metres",1984,F,1,Gold,Gabriella Dorio,ITA,243.25,NaN
+1060,"1,500 metres",1984,F,2,Silver,Doina Melinte,ROU,243.76,NaN
+1061,"1,500 metres",1984,F,3,Bronze,Maricica PuicÄ,ROU,244.15,NaN
+1062,Marathon,1984,F,1,Gold,Joan Benoit,USA,8692.0,NaN
+1063,Marathon,1984,F,2,Silver,Grete Waitz,NOR,8778.0,NaN
+1064,Marathon,1984,F,3,Bronze,Rosa Mota,POR,8817.0,NaN
+1065,Long Jump,1984,F,1,Gold,AniÈoara Stanciu-CuÈmir,ROU,NaN,6.96
+1066,Long Jump,1984,F,2,Silver,Valy Ionescu,ROU,NaN,6.81
+1067,Long Jump,1984,F,3,Bronze,Sue Hearnshaw,GBR,NaN,6.80
+1068,Shot Put,1984,F,1,Gold,Claudia Losch,FRG,NaN,20.48
+1069,Shot Put,1984,F,2,Silver,Mihaela Loghin,ROU,NaN,20.47
+1070,Shot Put,1984,F,3,Bronze,Gael Martin,AUS,NaN,19.19
+1071,Discus Throw,1984,F,1,Gold,Ria Stalman,NED,NaN,65.36
+1072,Discus Throw,1984,F,2,Silver,Leslie Deniz,USA,NaN,64.86
+1073,Discus Throw,1984,F,3,Bronze,FlorenÅ£a CrÄciunescu,ROU,NaN,63.64
+1074,Javelin Throw,1984,F,1,Gold,Tessa Sanderson,GBR,NaN,69.56
+1075,Javelin Throw,1984,F,2,Silver,Tiina Lillak,FIN,NaN,69.00
+1076,Javelin Throw,1984,F,3,Bronze,Fatima Whitbread,GBR,NaN,67.14
+1077,100 metres,1988,M,1,Gold,Carl Lewis,USA,9.92,NaN
+1078,100 metres,1988,M,2,Silver,Linford Christie,GBR,9.97,NaN
+1079,100 metres,1988,M,3,Bronze,Calvin Smith,USA,9.99,NaN
+1080,200 metres,1988,M,1,Gold,Joe DeLoach,USA,19.75,NaN
+1081,200 metres,1988,M,2,Silver,Carl Lewis,USA,19.79,NaN
+1082,200 metres,1988,M,3,Bronze,RÃ³bson Caetano da Silva,BRA,20.04,NaN
+1083,400 metres,1988,M,1,Gold,Steve Lewis,USA,43.87,NaN
+1084,400 metres,1988,M,2,Silver,Butch Reynolds,USA,43.93,NaN
+1085,400 metres,1988,M,3,Bronze,Danny Everett,USA,44.09,NaN
+1086,800 metres,1988,M,1,Gold,Paul Ereng,KEN,103.45,NaN
+1087,800 metres,1988,M,2,Silver,Joaquim Cruz,BRA,103.9,NaN
+1088,800 metres,1988,M,3,Bronze,SaÃ¯d Aouita,MAR,104.06,NaN
+1089,"1,500 metres",1988,M,1,Gold,Peter Rono,KEN,215.96,NaN
+1090,"1,500 metres",1988,M,2,Silver,Peter Elliott,GBR,216.15,NaN
+1091,"1,500 metres",1988,M,3,Bronze,Jens-Peter Herold,GDR,216.21,NaN
+1092,"5,000 metres",1988,M,1,Gold,John Ngugi,KEN,791.7,NaN
+1093,"5,000 metres",1988,M,2,Silver,Dieter Baumann,FRG,795.52,NaN
+1094,"5,000 metres",1988,M,3,Bronze,HansjÃ¶rg Kunze,GDR,795.73,NaN
+1095,"10,000 metres",1988,M,1,Gold,Brahim Boutayeb,MAR,1641.46,NaN
+1096,"10,000 metres",1988,M,2,Silver,Salvatore Antibo,ITA,1643.55,NaN
+1097,"10,000 metres",1988,M,3,Bronze,Kipkemboi Kimeli,KEN,1645.16,NaN
+1098,Marathon,1988,M,1,Gold,Gelindo Bordin,ITA,7832.0,NaN
+1099,Marathon,1988,M,2,Silver,Douglas Wakiihuri,KEN,7847.0,NaN
+1100,Marathon,1988,M,3,Bronze,Ahmed Salah,DJI,7859.0,NaN
+1101,Long Jump,1988,M,1,Gold,Carl Lewis,USA,NaN,8.72
+1102,Long Jump,1988,M,2,Silver,Mike Powell,USA,NaN,8.49
+1103,Long Jump,1988,M,3,Bronze,Larry Myricks,USA,NaN,8.27
+1104,Triple Jump,1988,M,1,Gold,Hristo Markov,BUL,NaN,17.61
+1105,Triple Jump,1988,M,2,Silver,Igor Lapshin,URS,NaN,17.52
+1106,Triple Jump,1988,M,3,Bronze,Aleksandr Kovalenko,URS,NaN,17.42
+1107,Shot Put,1988,M,1,Gold,Ulf Timmermann,GDR,NaN,22.47
+1108,Shot Put,1988,M,2,Silver,Randy Barnes,USA,NaN,22.39
+1109,Shot Put,1988,M,3,Bronze,Werner GÃ¼nthÃ¶r,SUI,NaN,21.99
+1110,Discus Throw,1988,M,1,Gold,JÃ¼rgen Schult,GDR,NaN,68.82
+1111,Discus Throw,1988,M,2,Silver,Romas Ubartas,URS,NaN,67.48
+1112,Discus Throw,1988,M,3,Bronze,Rolf Danneberg,FRG,NaN,67.38
+1113,Hammer Throw,1988,M,1,Gold,Sergey Litvinov,URS,NaN,84.80
+1114,Hammer Throw,1988,M,2,Silver,Yury Sedykh,URS,NaN,83.76
+1115,Hammer Throw,1988,M,3,Bronze,JÃ¼ri Tamm,URS,NaN,81.16
+1116,Javelin Throw,1988,M,1,Gold,Tapio Korjus,FIN,NaN,84.28
+1117,Javelin Throw,1988,M,2,Silver,Jan Å½eleznÃ½,TCH,NaN,84.12
+1118,Javelin Throw,1988,M,3,Bronze,Seppo RÃ¤ty,FIN,NaN,83.26
+1119,100 metres,1988,F,1,Gold,Florence Griffith Joyner,USA,10.54,NaN
+1120,100 metres,1988,F,2,Silver,Evelyn Ashford,USA,10.83,NaN
+1121,100 metres,1988,F,3,Bronze,Heike Drechsler,GDR,10.85,NaN
+1122,200 metres,1988,F,1,Gold,Florence Griffith Joyner,USA,21.34,NaN
+1123,200 metres,1988,F,2,Silver,Grace Jackson,JAM,21.72,NaN
+1124,200 metres,1988,F,3,Bronze,Heike Drechsler,GDR,21.95,NaN
+1125,400 metres,1988,F,1,Gold,Olga Bryzgina,URS,48.65,NaN
+1126,400 metres,1988,F,2,Silver,Petra MÃ¼ller,GDR,49.45,NaN
+1127,400 metres,1988,F,3,Bronze,Olga Nazarova,URS,49.9,NaN
+1128,800 metres,1988,F,1,Gold,Sigrun Wodars,GDR,116.1,NaN
+1129,800 metres,1988,F,2,Silver,Christine Wachtel,GDR,116.64,NaN
+1130,800 metres,1988,F,3,Bronze,Kim Gallagher,USA,116.91,NaN
+1131,"1,500 metres",1988,F,1,Gold,Paula Ivan,ROU,233.96,NaN
+1132,"1,500 metres",1988,F,2,Silver,LaimutÄ BaikauskaitÄ,URS,240.24,NaN
+1133,"1,500 metres",1988,F,3,Bronze,Tetiana Samolenko,URS,240.3,NaN
+1134,"10,000 metres",1988,F,1,Gold,Olga Bondarenko,URS,1865.21,NaN
+1135,"10,000 metres",1988,F,2,Silver,Liz McColgan,GBR,1868.44,NaN
+1136,"10,000 metres",1988,F,3,Bronze,Yelena Zhupiyeva,URS,1879.82,NaN
+1137,Marathon,1988,F,1,Gold,Rosa Mota,POR,8740.0,NaN
+1138,Marathon,1988,F,2,Silver,Lisa Martin,AUS,8753.0,NaN
+1139,Marathon,1988,F,3,Bronze,Katrin DÃ¶rre,GDR,8781.0,NaN
+1140,Long Jump,1988,F,1,Gold,Jackie Joyner-Kersee,USA,NaN,7.40
+1141,Long Jump,1988,F,2,Silver,Heike Drechsler,GDR,NaN,7.22
+1142,Long Jump,1988,F,3,Bronze,Halyna Chystiakova,URS,NaN,7.11
+1143,Shot Put,1988,F,1,Gold,Nataliya Lisovskaya,URS,NaN,22.24
+1144,Shot Put,1988,F,2,Silver,Kathrin Neimke,GDR,NaN,21.07
+1145,Shot Put,1988,F,3,Bronze,Li Meisu,CHN,NaN,21.06
+1146,Discus Throw,1988,F,1,Gold,Martina Hellmann,GDR,NaN,72.30
+1147,Discus Throw,1988,F,2,Silver,Diana Gansky,GDR,NaN,71.88
+1148,Discus Throw,1988,F,3,Bronze,Tsvetanka Hristova,BUL,NaN,69.74
+1149,Javelin Throw,1988,F,1,Gold,Petra Felke,GDR,NaN,74.68
+1150,Javelin Throw,1988,F,2,Silver,Fatima Whitbread,GBR,NaN,70.32
+1151,Javelin Throw,1988,F,3,Bronze,Beate Koch,GDR,NaN,67.30
+1152,100 metres,1992,M,1,Gold,Linford Christie,GBR,9.96,NaN
+1153,100 metres,1992,M,2,Silver,Frankie Fredericks,NAM,10.02,NaN
+1154,100 metres,1992,M,3,Bronze,Dennis Mitchell,USA,10.04,NaN
+1155,200 metres,1992,M,1,Gold,Mike Marsh,USA,20.01,NaN
+1156,200 metres,1992,M,2,Silver,Frankie Fredericks,NAM,20.13,NaN
+1157,200 metres,1992,M,3,Bronze,Michael Bates,USA,20.38,NaN
+1158,400 metres,1992,M,1,Gold,Quincy Watts,USA,43.5,NaN
+1159,400 metres,1992,M,2,Silver,Steve Lewis,USA,44.21,NaN
+1160,400 metres,1992,M,3,Bronze,Samson Kitur,KEN,44.24,NaN
+1161,800 metres,1992,M,1,Gold,William Tanui,KEN,103.66,NaN
+1162,800 metres,1992,M,2,Silver,Nixon Kiprotich,KEN,103.7,NaN
+1163,800 metres,1992,M,3,Bronze,Johnny Gray,USA,103.97,NaN
+1164,"1,500 metres",1992,M,1,Gold,FermÃ­n Cacho,ESP,220.12,NaN
+1165,"1,500 metres",1992,M,2,Silver,Rachid El-Basir,MAR,220.62,NaN
+1166,"1,500 metres",1992,M,3,Bronze,Mohamed Suleiman,QAT,220.69,NaN
+1167,"5,000 metres",1992,M,1,Gold,Dieter Baumann,GER,792.52,NaN
+1168,"5,000 metres",1992,M,2,Silver,Paul Bitok,KEN,792.71,NaN
+1169,"5,000 metres",1992,M,3,Bronze,Fita Bayissa,ETH,793.03,NaN
+1170,"10,000 metres",1992,M,1,Gold,Khalid Skah,MAR,1666.7,NaN
+1171,"10,000 metres",1992,M,2,Silver,Richard Chelimo,KEN,1667.72,NaN
+1172,"10,000 metres",1992,M,3,Bronze,Addis Abebe,ETH,1680.07,NaN
+1173,Marathon,1992,M,1,Gold,Hwang Yeong-Jo,KOR,8003.0,NaN
+1174,Marathon,1992,M,2,Silver,Koichi Morishita,JPN,8025.0,NaN
+1175,Marathon,1992,M,3,Bronze,Stephan Freigang,GER,8040.0,NaN
+1176,Long Jump,1992,M,1,Gold,Carl Lewis,USA,NaN,8.67
+1177,Long Jump,1992,M,2,Silver,Mike Powell,USA,NaN,8.64
+1178,Long Jump,1992,M,3,Bronze,Joe Greene,USA,NaN,8.34
+1179,Triple Jump,1992,M,1,Gold,Mike Conley,USA,NaN,18.17
+1180,Triple Jump,1992,M,2,Silver,Charlie Simpkins,USA,NaN,17.60
+1181,Triple Jump,1992,M,3,Bronze,Frank Rutherford,BAH,NaN,17.36
+1182,Shot Put,1992,M,1,Gold,Mike Stulce,USA,NaN,21.70
+1183,Shot Put,1992,M,2,Silver,Jim Doehring,USA,NaN,20.96
+1184,Shot Put,1992,M,3,Bronze,Vyacheslav Lykho,EUN,NaN,20.94
+1185,Discus Throw,1992,M,1,Gold,Romas Ubartas,LTU,NaN,65.12
+1186,Discus Throw,1992,M,2,Silver,JÃ¼rgen Schult,GER,NaN,64.94
+1187,Discus Throw,1992,M,3,Bronze,Roberto Moya,CUB,NaN,64.12
+1188,Hammer Throw,1992,M,1,Gold,Andrey Abduvaliyev,EUN,NaN,82.54
+1189,Hammer Throw,1992,M,2,Silver,Ihar Astapkovich,EUN,NaN,81.96
+1190,Hammer Throw,1992,M,3,Bronze,Igor Nikulin,EUN,NaN,81.38
+1191,Javelin Throw,1992,M,1,Gold,Jan Å½eleznÃ½,TCH,NaN,89.66
+1192,Javelin Throw,1992,M,2,Silver,Seppo RÃ¤ty,FIN,NaN,86.60
+1193,Javelin Throw,1992,M,3,Bronze,Steve Backley,GBR,NaN,83.38
+1194,100 metres,1992,F,1,Gold,Gail Devers,USA,10.82,NaN
+1195,100 metres,1992,F,2,Silver,Juliet Cuthbert,JAM,10.83,NaN
+1196,100 metres,1992,F,3,Bronze,Irina Privalova,EUN,10.84,NaN
+1197,200 metres,1992,F,1,Gold,Gwen Torrence,USA,21.81,NaN
+1198,200 metres,1992,F,2,Silver,Juliet Cuthbert,JAM,22.02,NaN
+1199,200 metres,1992,F,3,Bronze,Merlene Ottey,JAM,22.09,NaN
+1200,400 metres,1992,F,1,Gold,Marie-JosÃ© PÃ©rec,FRA,48.83,NaN
+1201,400 metres,1992,F,2,Silver,Olga Bryzgina,EUN,49.05,NaN
+1202,400 metres,1992,F,3,Bronze,Ximena Restrepo,COL,49.64,NaN
+1203,800 metres,1992,F,1,Gold,Ellen van Langen,NED,115.53999999999999,NaN
+1204,800 metres,1992,F,2,Silver,Liliya Nurutdinova,EUN,115.99000000000001,NaN
+1205,800 metres,1992,F,3,Bronze,Ana Fidelia QuirÃ³s,CUB,116.8,NaN
+1206,"1,500 metres",1992,F,1,Gold,Hassiba Boulmerka,ALG,235.3,NaN
+1207,"1,500 metres",1992,F,2,Silver,Lyudmila Rogachova,EUN,236.91,NaN
+1208,"1,500 metres",1992,F,3,Bronze,Qu Yunxia,CHN,237.07999999999998,NaN
+1209,"10,000 metres",1992,F,1,Gold,Derartu Tulu,ETH,1866.02,NaN
+1210,"10,000 metres",1992,F,2,Silver,Elana Meyer,RSA,1871.75,NaN
+1211,"10,000 metres",1992,F,3,Bronze,Lynn Jennings,USA,1879.89,NaN
+1212,Marathon,1992,F,1,Gold,Valentina Yegorova,EUN,9161.0,NaN
+1213,Marathon,1992,F,2,Silver,Yuko Arimori,JPN,9169.0,NaN
+1214,Marathon,1992,F,3,Bronze,Lorraine Moller,NZL,9239.0,NaN
+1215,Long Jump,1992,F,1,Gold,Heike Drechsler,GER,NaN,7.14
+1216,Long Jump,1992,F,2,Silver,Inesa Kravets,EUN,NaN,7.12
+1217,Long Jump,1992,F,3,Bronze,Jackie Joyner-Kersee,USA,NaN,7.07
+1218,Shot Put,1992,F,1,Gold,Svetlana Krivelyova,EUN,NaN,21.06
+1219,Shot Put,1992,F,2,Silver,Huang Zhihong,CHN,NaN,20.47
+1220,Shot Put,1992,F,3,Bronze,Kathrin Neimke,GER,NaN,19.78
+1221,Discus Throw,1992,F,1,Gold,Maritza MartÃ©n,CUB,NaN,70.06
+1222,Discus Throw,1992,F,2,Silver,Tsvetanka Hristova,BUL,NaN,67.78
+1223,Discus Throw,1992,F,3,Bronze,Daniela Costian,AUS,NaN,66.24
+1224,Javelin Throw,1992,F,1,Gold,Silke Renk,GER,NaN,68.34
+1225,Javelin Throw,1992,F,2,Silver,Natallia Shykalenka,EUN,NaN,68.26
+1226,Javelin Throw,1992,F,3,Bronze,Karen Forkel,GER,NaN,66.86
+1227,100 metres,1996,M,1,Gold,Donovan Bailey,CAN,9.84,NaN
+1228,100 metres,1996,M,2,Silver,Frankie Fredericks,NAM,9.89,NaN
+1229,100 metres,1996,M,3,Bronze,Ato Boldon,TTO,9.9,NaN
+1230,200 metres,1996,M,1,Gold,Michael Johnson,USA,19.32,NaN
+1231,200 metres,1996,M,2,Silver,Frankie Fredericks,NAM,19.68,NaN
+1232,200 metres,1996,M,3,Bronze,Ato Boldon,TTO,19.8,NaN
+1233,400 metres,1996,M,1,Gold,Michael Johnson,USA,43.49,NaN
+1234,400 metres,1996,M,2,Silver,Roger Black,GBR,44.41,NaN
+1235,400 metres,1996,M,3,Bronze,Davis Kamoga,UGA,44.53,NaN
+1236,800 metres,1996,M,1,Gold,VebjÃ¸rn Rodal,NOR,102.58,NaN
+1237,800 metres,1996,M,2,Silver,HezekiÃ©l Sepeng,RSA,102.74000000000001,NaN
+1238,800 metres,1996,M,3,Bronze,Fred Onyancha,KEN,102.78999999999999,NaN
+1239,"1,500 metres",1996,M,1,Gold,Noureddine Morceli,ALG,215.78,NaN
+1240,"1,500 metres",1996,M,2,Silver,FermÃ­n Cacho,ESP,216.4,NaN
+1241,"1,500 metres",1996,M,3,Bronze,Stephen Kipkorir,KEN,216.72,NaN
+1242,"5,000 metres",1996,M,1,Gold,VÃ©nuste Niyongabo,BDI,787.96,NaN
+1243,"5,000 metres",1996,M,2,Silver,Paul Bitok,KEN,788.16,NaN
+1244,"5,000 metres",1996,M,3,Bronze,Khalid Boulami,MAR,788.37,NaN
+1245,"10,000 metres",1996,M,1,Gold,Haile Gebrselassie,ETH,1627.34,NaN
+1246,"10,000 metres",1996,M,2,Silver,Paul Tergat,KEN,1628.17,NaN
+1247,"10,000 metres",1996,M,3,Bronze,Salah Hissou,MAR,1644.67,NaN
+1248,Marathon,1996,M,1,Gold,Josia Thugwane,RSA,7956.0,NaN
+1249,Marathon,1996,M,2,Silver,Lee Bong-Ju,KOR,7959.0,NaN
+1250,Marathon,1996,M,3,Bronze,Eric Wainaina,KEN,7964.0,NaN
+1251,Long Jump,1996,M,1,Gold,Carl Lewis,USA,NaN,8.50
+1252,Long Jump,1996,M,2,Silver,James Beckford,JAM,NaN,8.29
+1253,Long Jump,1996,M,3,Bronze,Joe Greene,USA,NaN,8.24
+1254,Triple Jump,1996,M,1,Gold,Kenny Harrison,USA,NaN,18.09
+1255,Triple Jump,1996,M,2,Silver,Jonathan Edwards,GBR,NaN,17.88
+1256,Triple Jump,1996,M,3,Bronze,Yoelbi Quesada,CUB,NaN,17.44
+1257,Shot Put,1996,M,1,Gold,Randy Barnes,USA,NaN,21.62
+1258,Shot Put,1996,M,2,Silver,John Godina,USA,NaN,20.79
+1259,Shot Put,1996,M,3,Bronze,Oleksandr Bahach,UKR,NaN,20.75
+1260,Discus Throw,1996,M,1,Gold,Lars Riedel,GER,NaN,69.40
+1261,Discus Throw,1996,M,2,Silver,Uladzimir Dubroushchyk,BLR,NaN,66.60
+1262,Discus Throw,1996,M,3,Bronze,Vasil Kapiukh,BLR,NaN,65.80
+1263,Hammer Throw,1996,M,1,Gold,BalÃ¡zs Kiss,HUN,NaN,81.24
+1264,Hammer Throw,1996,M,2,Silver,Lance Deal,USA,NaN,81.12
+1265,Hammer Throw,1996,M,3,Bronze,Oleksandr Krykun,UKR,NaN,80.02
+1266,Javelin Throw,1996,M,1,Gold,Jan Å½eleznÃ½,CZE,NaN,88.16
+1267,Javelin Throw,1996,M,2,Silver,Steve Backley,GBR,NaN,87.44
+1268,Javelin Throw,1996,M,3,Bronze,Seppo RÃ¤ty,FIN,NaN,86.98
+1269,100 metres,1996,F,1,Gold,Gail Devers,USA,10.94,NaN
+1270,100 metres,1996,F,2,Silver,Merlene Ottey,JAM,10.94,NaN
+1271,100 metres,1996,F,3,Bronze,Gwen Torrence,USA,10.96,NaN
+1272,200 metres,1996,F,1,Gold,Marie-JosÃ© PÃ©rec,FRA,22.12,NaN
+1273,200 metres,1996,F,2,Silver,Merlene Ottey,JAM,22.24,NaN
+1274,200 metres,1996,F,3,Bronze,Mary Onyali,NGR,22.38,NaN
+1275,400 metres,1996,F,1,Gold,Marie-JosÃ© PÃ©rec,FRA,48.25,NaN
+1276,400 metres,1996,F,2,Silver,Cathy Freeman,AUS,48.63,NaN
+1277,400 metres,1996,F,3,Bronze,Falilat Ogunkoya,NGR,49.1,NaN
+1278,800 metres,1996,F,1,Gold,Svetlana Masterkova,RUS,117.72999999999999,NaN
+1279,800 metres,1996,F,2,Silver,Ana Fidelia QuirÃ³s,CUB,118.11,NaN
+1280,800 metres,1996,F,3,Bronze,Maria Mutola,MOZ,118.71000000000001,NaN
+1281,"1,500 metres",1996,F,1,Gold,Svetlana Masterkova,RUS,240.83,NaN
+1282,"1,500 metres",1996,F,2,Silver,Gabriela Szabo,ROU,241.54,NaN
+1283,"1,500 metres",1996,F,3,Bronze,Theresia Kiesl,AUT,243.02,NaN
+1284,"5,000 metres",1996,F,1,Gold,Wang Junxia,CHN,899.88,NaN
+1285,"5,000 metres",1996,F,2,Silver,Pauline Konga,KEN,903.49,NaN
+1286,"5,000 metres",1996,F,3,Bronze,Roberta Brunet,ITA,907.52,NaN
+1287,"10,000 metres",1996,F,1,Gold,Fernanda Ribeiro,POR,1861.63,NaN
+1288,"10,000 metres",1996,F,2,Silver,Wang Junxia,CHN,1862.58,NaN
+1289,"10,000 metres",1996,F,3,Bronze,Gete Wami,ETH,1866.65,NaN
+1290,Marathon,1996,F,1,Gold,Fatuma Roba,ETH,8765.0,NaN
+1291,Marathon,1996,F,2,Silver,Valentina Yegorova,RUS,8885.0,NaN
+1292,Marathon,1996,F,3,Bronze,Yuko Arimori,JPN,8919.0,NaN
+1293,Long Jump,1996,F,1,Gold,Chioma Ajunwa,NGR,NaN,7.12
+1294,Long Jump,1996,F,2,Silver,Fiona May,ITA,NaN,7.02
+1295,Long Jump,1996,F,3,Bronze,Jackie Joyner-Kersee,USA,NaN,7.00
+1296,Triple Jump,1996,F,1,Gold,Inesa Kravets,UKR,NaN,15.33
+1297,Triple Jump,1996,F,2,Silver,Inna Lasovskaya,RUS,NaN,14.98
+1298,Triple Jump,1996,F,3,Bronze,Å Ã¡rka KaÅ¡pÃ¡rkovÃ¡,CZE,NaN,14.98
+1299,Shot Put,1996,F,1,Gold,Astrid Kumbernuss,GER,NaN,20.56
+1300,Shot Put,1996,F,2,Silver,Sui Xinmei,CHN,NaN,19.88
+1301,Shot Put,1996,F,3,Bronze,Irina Khudoroshkina,RUS,NaN,19.35
+1302,Discus Throw,1996,F,1,Gold,Ilke Wyludda,GER,NaN,69.66
+1303,Discus Throw,1996,F,2,Silver,Nataliya Sadova,RUS,NaN,66.48
+1304,Discus Throw,1996,F,3,Bronze,Elina Zverava,BLR,NaN,65.64
+1305,Javelin Throw,1996,F,1,Gold,Heli Rantanen,FIN,NaN,67.94
+1306,Javelin Throw,1996,F,2,Silver,Louise McPaul,AUS,NaN,65.54
+1307,Javelin Throw,1996,F,3,Bronze,Trine Hattestad,NOR,NaN,64.98
+1308,100 metres,2000,M,1,Gold,Maurice Greene,USA,9.87,NaN
+1309,100 metres,2000,M,2,Silver,Ato Boldon,TTO,9.99,NaN
+1310,100 metres,2000,M,3,Bronze,Obadele Thompson,BAR,10.04,NaN
+1311,200 metres,2000,M,1,Gold,Kostas Kenteris,GRE,20.09,NaN
+1312,200 metres,2000,M,2,Silver,Darren Campbell,GBR,20.14,NaN
+1313,200 metres,2000,M,3,Bronze,Ato Boldon,TTO,20.2,NaN
+1314,400 metres,2000,M,1,Gold,Michael Johnson,USA,43.84,NaN
+1315,400 metres,2000,M,2,Silver,Alvin Harrison,USA,44.4,NaN
+1316,400 metres,2000,M,3,Bronze,Greg Haughton,JAM,44.7,NaN
+1317,800 metres,2000,M,1,Gold,Nils Schumann,GER,105.08,NaN
+1318,800 metres,2000,M,2,Silver,Wilson Kipketer,DEN,105.14,NaN
+1319,800 metres,2000,M,3,Bronze,Djabir SaÃ¯d-Guerni,ALG,105.16,NaN
+1320,"1,500 metres",2000,M,1,Gold,Noah Ngeny,KEN,212.07,NaN
+1321,"1,500 metres",2000,M,2,Silver,Hicham El Guerrouj,MAR,212.32,NaN
+1322,"1,500 metres",2000,M,3,Bronze,Bernard Lagat,KEN,212.44,NaN
+1323,"5,000 metres",2000,M,1,Gold,Million Wolde,ETH,815.49,NaN
+1324,"5,000 metres",2000,M,2,Silver,Ali SaÃ¯di-Sief,ALG,816.2,NaN
+1325,"5,000 metres",2000,M,3,Bronze,Brahim Lahlafi,MAR,816.47,NaN
+1326,"10,000 metres",2000,M,1,Gold,Haile Gebrselassie,ETH,1638.2,NaN
+1327,"10,000 metres",2000,M,2,Silver,Paul Tergat,KEN,1638.29,NaN
+1328,"10,000 metres",2000,M,3,Bronze,Assefa Mezgebu,ETH,1639.75,NaN
+1329,Marathon,2000,M,1,Gold,Gezahgne Abera,ETH,7811.0,NaN
+1330,Marathon,2000,M,2,Silver,Eric Wainaina,KEN,7831.0,NaN
+1331,Marathon,2000,M,3,Bronze,Tesfaye Tola,ETH,7870.0,NaN
+1332,Long Jump,2000,M,1,Gold,IvÃ¡n Pedroso,CUB,NaN,8.55
+1333,Long Jump,2000,M,2,Silver,Jai Taurima,AUS,NaN,8.49
+1334,Long Jump,2000,M,3,Bronze,Roman Shchurenko,UKR,NaN,8.31
+1335,Triple Jump,2000,M,1,Gold,Jonathan Edwards,GBR,NaN,17.71
+1336,Triple Jump,2000,M,2,Silver,Yoel GarcÃ­a,CUB,NaN,17.47
+1337,Triple Jump,2000,M,3,Bronze,Denis Kapustin,RUS,NaN,17.46
+1338,Shot Put,2000,M,1,Gold,Arsi Harju,FIN,NaN,21.29
+1339,Shot Put,2000,M,2,Silver,Adam Nelson,USA,NaN,21.21
+1340,Shot Put,2000,M,3,Bronze,John Godina,USA,NaN,21.20
+1341,Discus Throw,2000,M,1,Gold,Virgilijus Alekna,LTU,NaN,69.30
+1342,Discus Throw,2000,M,2,Silver,Lars Riedel,GER,NaN,68.50
+1343,Discus Throw,2000,M,3,Bronze,Frantz Kruger,RSA,NaN,68.19
+1344,Hammer Throw,2000,M,1,Gold,Szymon ZiÃ³Åkowski,POL,NaN,80.02
+1345,Hammer Throw,2000,M,2,Silver,Nicola Vizzoni,ITA,NaN,79.64
+1346,Hammer Throw,2000,M,3,Bronze,Ihar Astapkovich,BLR,NaN,79.17
+1347,Javelin Throw,2000,M,1,Gold,Jan Å½eleznÃ½,CZE,NaN,90.17
+1348,Javelin Throw,2000,M,2,Silver,Steve Backley,GBR,NaN,89.85
+1349,Javelin Throw,2000,M,3,Bronze,Sergey Makarov,RUS,NaN,88.67
+1350,100 metres,2000,F,1,Silver,Aikaterini Thanou,GRE,11.12,NaN
+1351,100 metres,2000,F,2,Silver,Tayna Lawrence,JAM,11.18,NaN
+1352,100 metres,2000,F,3,Bronze,Merlene Ottey,JAM,11.19,NaN
+1353,200 metres,2000,F,1,Gold,Pauline Davis-Thompson,BAH,22.27,NaN
+1354,200 metres,2000,F,2,Silver,Susanthika Jayasinghe,SRI,22.28,NaN
+1355,200 metres,2000,F,3,Bronze,Beverly McDonald,JAM,22.35,NaN
+1356,400 metres,2000,F,1,Gold,Cathy Freeman,AUS,49.11,NaN
+1357,400 metres,2000,F,2,Silver,Lorraine Graham,JAM,49.58,NaN
+1358,400 metres,2000,F,3,Bronze,Katharine Merry,GBR,49.72,NaN
+1359,800 metres,2000,F,1,Gold,Maria Mutola,MOZ,116.15,NaN
+1360,800 metres,2000,F,2,Silver,Steffi Graf,AUT,116.64,NaN
+1361,800 metres,2000,F,3,Bronze,Kelly Holmes,GBR,116.8,NaN
+1362,"1,500 metres",2000,F,1,Gold,Nouria MÃ©rah-Benida,ALG,245.1,NaN
+1363,"1,500 metres",2000,F,2,Silver,Violeta Szekely,ROU,245.15,NaN
+1364,"1,500 metres",2000,F,3,Bronze,Gabriela Szabo,ROU,245.27,NaN
+1365,"5,000 metres",2000,F,1,Gold,Gabriela Szabo,ROU,880.79,NaN
+1366,"5,000 metres",2000,F,2,Silver,Sonia O'Sullivan,IRL,881.02,NaN
+1367,"5,000 metres",2000,F,3,Bronze,Gete Wami,ETH,882.23,NaN
+1368,"10,000 metres",2000,F,1,Gold,Derartu Tulu,ETH,1817.49,NaN
+1369,"10,000 metres",2000,F,2,Silver,Gete Wami,ETH,1822.48,NaN
+1370,"10,000 metres",2000,F,3,Bronze,Fernanda Ribeiro,POR,1822.88,NaN
+1371,Marathon,2000,F,1,Gold,Naoko Takahashi,JPN,8594.0,NaN
+1372,Marathon,2000,F,2,Silver,Lidia Èimon,ROU,8602.0,NaN
+1373,Marathon,2000,F,3,Bronze,Joyce Chepchumba,KEN,8685.0,NaN
+1374,Long Jump,2000,F,1,Gold,Heike Drechsler,GER,NaN,6.99
+1375,Long Jump,2000,F,2,Silver,Fiona May,ITA,NaN,6.92
+1376,Long Jump,2000,F,3,Bronze,Tatyana Kotova,RUS,NaN,6.83
+1377,Triple Jump,2000,F,1,Gold,Tereza Marinova,BUL,NaN,15.20
+1378,Triple Jump,2000,F,2,Silver,Tatyana Lebedeva,RUS,NaN,15.00
+1379,Triple Jump,2000,F,3,Bronze,Olena Hovorova,UKR,NaN,14.96
+1380,Shot Put,2000,F,1,Gold,Yanina Karolchyk,BLR,NaN,20.56
+1381,Shot Put,2000,F,2,Silver,Larisa Peleshenko,RUS,NaN,19.92
+1382,Shot Put,2000,F,3,Bronze,Astrid Kumbernuss,GER,NaN,19.62
+1383,Discus Throw,2000,F,1,Gold,Elina Zverava,BLR,NaN,68.40
+1384,Discus Throw,2000,F,2,Silver,Anastasia Kelesidou,GRE,NaN,65.71
+1385,Discus Throw,2000,F,3,Bronze,Iryna Yatchanka,BLR,NaN,65.20
+1386,Hammer Throw,2000,F,1,Gold,Kamila Skolimowska,POL,NaN,71.16
+1387,Hammer Throw,2000,F,2,Silver,Olga Kuzenkova,RUS,NaN,69.77
+1388,Hammer Throw,2000,F,3,Bronze,Kirsten MÃ¼nchow,GER,NaN,69.28
+1389,Javelin Throw,2000,F,1,Gold,Trine Hattestad,NOR,NaN,68.91
+1390,Javelin Throw,2000,F,2,Silver,Mirela Maniani-Tzelili,GRE,NaN,67.51
+1391,Javelin Throw,2000,F,3,Bronze,Osleidys MenÃ©ndez,CUB,NaN,66.18
+1392,100 metres,2004,M,1,Gold,Justin Gatlin,USA,9.85,NaN
+1393,100 metres,2004,M,2,Silver,Francis Obikwelu,POR,9.86,NaN
+1394,100 metres,2004,M,3,Bronze,Maurice Greene,USA,9.87,NaN
+1395,200 metres,2004,M,1,Gold,Shawn Crawford,USA,19.79,NaN
+1396,200 metres,2004,M,2,Silver,"Bernard Williams, III",USA,20.01,NaN
+1397,200 metres,2004,M,3,Bronze,Justin Gatlin,USA,20.03,NaN
+1398,400 metres,2004,M,1,Gold,Jeremy Wariner,USA,44.0,NaN
+1399,400 metres,2004,M,2,Silver,Otis Harris,USA,44.16,NaN
+1400,400 metres,2004,M,3,Bronze,Derrick Brew,USA,44.42,NaN
+1401,800 metres,2004,M,1,Gold,Yury Borzakovsky,RUS,104.45,NaN
+1402,800 metres,2004,M,2,Silver,Mbulaeni Mulaudzi,RSA,104.61,NaN
+1403,800 metres,2004,M,3,Bronze,Wilson Kipketer,DEN,104.65,NaN
+1404,"1,500 metres",2004,M,1,Gold,Hicham El Guerrouj,MAR,214.18,NaN
+1405,"1,500 metres",2004,M,2,Silver,Bernard Lagat,KEN,214.3,NaN
+1406,"1,500 metres",2004,M,3,Bronze,Rui Silva,POR,214.68,NaN
+1407,"5,000 metres",2004,M,1,Gold,Hicham El Guerrouj,MAR,794.39,NaN
+1408,"5,000 metres",2004,M,2,Silver,Kenenisa Bekele,ETH,794.59,NaN
+1409,"5,000 metres",2004,M,3,Bronze,Eliud Kipchoge,KEN,795.1,NaN
+1410,"10,000 metres",2004,M,1,Gold,Kenenisa Bekele,ETH,NaN,NaN
+1411,"10,000 metres",2004,M,2,Silver,Sileshi Sihine,ETH,NaN,NaN
+1412,"10,000 metres",2004,M,3,Bronze,Zersenay Tadese,ERI,NaN,NaN
+1413,Marathon,2004,M,1,Gold,Stefano Baldini,ITA,7855.0,NaN
+1414,Marathon,2004,M,2,Silver,Meb Keflezighi,USA,7889.0,NaN
+1415,Marathon,2004,M,3,Bronze,Vanderlei de Lima,BRA,7931.0,NaN
+1416,Long Jump,2004,M,1,Gold,Dwight Phillips,USA,NaN,8.59
+1417,Long Jump,2004,M,2,Silver,John Moffitt,USA,NaN,8.47
+1418,Long Jump,2004,M,3,Bronze,Joan Lino MartÃ­nez,ESP,NaN,8.32
+1419,Triple Jump,2004,M,1,Gold,Christian Olsson,SWE,NaN,17.79
+1420,Triple Jump,2004,M,2,Silver,Marian Oprea,ROU,NaN,17.55
+1421,Triple Jump,2004,M,3,Bronze,Daniil Burkenya,RUS,NaN,17.48
+1422,Shot Put,2004,M,1,Gold,Adam Nelson,USA,NaN,21.16
+1423,Shot Put,2004,M,2,Silver,Joachim Olsen,DEN,NaN,21.07
+1424,Shot Put,2004,M,3,Bronze,Manuel MartÃ­nez,ESP,NaN,20.84
+1425,Discus Throw,2004,M,1,Gold,Virgilijus Alekna,LTU,NaN,69.89
+1426,Discus Throw,2004,M,2,Silver,ZoltÃ¡n KÅvÃ¡gÃ³,HUN,NaN,67.04
+1427,Discus Throw,2004,M,3,Bronze,Aleksander Tammert,EST,NaN,66.66
+1428,Hammer Throw,2004,M,1,Gold,Koji Murofushi,JPN,NaN,82.91
+1429,Javelin Throw,2004,M,1,Gold,Andreas Thorkildsen,NOR,NaN,86.50
+1430,Javelin Throw,2004,M,2,Silver,Vadims VasiÄ¼evskis,LAT,NaN,84.95
+1431,Javelin Throw,2004,M,3,Bronze,Sergey Makarov,RUS,NaN,84.84
+1432,100 metres,2004,F,1,Gold,Yuliya Nestsiarenka,BLR,10.93,NaN
+1433,100 metres,2004,F,2,Silver,Lauryn Williams,USA,10.96,NaN
+1434,100 metres,2004,F,3,Bronze,Veronica Campbell,JAM,10.97,NaN
+1435,200 metres,2004,F,1,Gold,Veronica Campbell,JAM,22.05,NaN
+1436,200 metres,2004,F,2,Silver,Allyson Felix,USA,22.18,NaN
+1437,200 metres,2004,F,3,Bronze,Debbie Ferguson,BAH,22.3,NaN
+1438,400 metres,2004,F,1,Gold,Tonique Williams-Darling,BAH,49.41,NaN
+1439,400 metres,2004,F,2,Silver,Ana Guevara,MEX,49.56,NaN
+1440,400 metres,2004,F,3,Bronze,Nataliya Antyukh,RUS,49.89,NaN
+1441,800 metres,2004,F,1,Gold,Kelly Holmes,GBR,116.38,NaN
+1442,800 metres,2004,F,2,Silver,Hasna Benhassi,MAR,116.43,NaN
+1443,800 metres,2004,F,3,Bronze,Jolanda Äeplak,SLO,116.43,NaN
+1444,"1,500 metres",2004,F,1,Gold,Kelly Holmes,GBR,237.9,NaN
+1445,"1,500 metres",2004,F,2,Silver,Tatyana Tomashova,RUS,238.12,NaN
+1446,"1,500 metres",2004,F,3,Bronze,Maria Cioncan,ROU,238.39,NaN
+1447,"5,000 metres",2004,F,1,Gold,Meseret Defar,ETH,885.65,NaN
+1448,"5,000 metres",2004,F,2,Silver,Isabella Ochichi,KEN,888.19,NaN
+1449,"5,000 metres",2004,F,3,Bronze,Tirunesh Dibaba,ETH,891.83,NaN
+1450,"10,000 metres",2004,F,1,Gold,Xing Huina,CHN,NaN,NaN
+1451,"10,000 metres",2004,F,2,Silver,Ejegayehu Dibaba,ETH,NaN,NaN
+1452,"10,000 metres",2004,F,3,Bronze,Derartu Tulu,ETH,NaN,NaN
+1453,Marathon,2004,F,1,Gold,Mizuki Noguchi,JPN,8780.0,NaN
+1454,Marathon,2004,F,2,Silver,Catherine Ndereba,KEN,8792.0,NaN
+1455,Marathon,2004,F,3,Bronze,Deena Kastor,USA,8840.0,NaN
+1456,Long Jump,2004,F,1,Gold,Tatyana Lebedeva,RUS,NaN,7.07
+1457,Long Jump,2004,F,2,Silver,Irina Simagina,RUS,NaN,7.05
+1458,Long Jump,2004,F,3,Bronze,Tatyana Kotova,RUS,NaN,7.05
+1459,Triple Jump,2004,F,1,Gold,FranÃ§oise Mbango,CMR,NaN,15.30
+1460,Triple Jump,2004,F,2,Silver,Pigi Devetzi,GRE,NaN,15.25
+1461,Triple Jump,2004,F,3,Bronze,Tatyana Lebedeva,RUS,NaN,15.14
+1462,Shot Put,2004,F,1,Gold,Yumileidi CumbÃ¡,CUB,NaN,19.59
+1463,Shot Put,2004,F,2,Silver,Nadine Kleinert,GER,NaN,19.55
+1464,Discus Throw,2004,F,1,Gold,Nataliya Sadova,RUS,NaN,67.02
+1465,Discus Throw,2004,F,2,Silver,Anastasia Kelesidou,GRE,NaN,66.68
+1466,Discus Throw,2004,F,3,Bronze,VÄra PospÃ­Å¡ilovÃ¡-CechlovÃ¡,CZE,NaN,66.08
+1467,Hammer Throw,2004,F,1,Gold,Olga Kuzenkova,RUS,NaN,75.02
+1468,Hammer Throw,2004,F,2,Silver,Yipsi Moreno,CUB,NaN,73.36
+1469,Hammer Throw,2004,F,3,Bronze,Yunaika Crawford,CUB,NaN,73.16
+1470,Javelin Throw,2004,F,1,Gold,Osleidys MenÃ©ndez,CUB,NaN,71.53
+1471,Javelin Throw,2004,F,2,Silver,Steffi Nerius,GER,NaN,65.82
+1472,Javelin Throw,2004,F,3,Bronze,Mirela Maniani,GRE,NaN,64.29
+1473,100 metres,2008,M,1,Gold,Usain Bolt,JAM,9.69,NaN
+1474,100 metres,2008,M,2,Silver,Richard Thompson,TTO,9.89,NaN
+1475,100 metres,2008,M,3,Bronze,Walter Dix,USA,9.91,NaN
+1476,200 metres,2008,M,1,Gold,Usain Bolt,JAM,19.3,NaN
+1477,200 metres,2008,M,2,Silver,Shawn Crawford,USA,19.96,NaN
+1478,200 metres,2008,M,3,Bronze,Walter Dix,USA,19.98,NaN
+1479,400 metres,2008,M,1,Gold,LaShawn Merritt,USA,43.75,NaN
+1480,400 metres,2008,M,2,Silver,Jeremy Wariner,USA,44.74,NaN
+1481,400 metres,2008,M,3,Bronze,David Neville,USA,44.8,NaN
+1482,800 metres,2008,M,1,Gold,Wilfred Bungei,KEN,104.65,NaN
+1483,800 metres,2008,M,2,Silver,Ismail Ahmed Ismail,SUD,104.7,NaN
+1484,800 metres,2008,M,3,Bronze,Alfred Kirwa Yego,KEN,104.82,NaN
+1485,"1,500 metres",2008,M,1,Gold,Asbel Kiprop,KEN,213.11,NaN
+1486,"1,500 metres",2008,M,2,Silver,Nick Willis,NZL,214.16,NaN
+1487,"1,500 metres",2008,M,3,Bronze,Mehdi Baala,FRA,214.21,NaN
+1488,"5,000 metres",2008,M,1,Gold,Kenenisa Bekele,ETH,777.82,NaN
+1489,"5,000 metres",2008,M,2,Silver,Eliud Kipchoge,KEN,782.8,NaN
+1490,"5,000 metres",2008,M,3,Bronze,Edwin Soi,KEN,786.22,NaN
+1491,"10,000 metres",2008,M,1,Gold,Kenenisa Bekele,ETH,NaN,NaN
+1492,"10,000 metres",2008,M,2,Silver,Sileshi Sihine,ETH,NaN,NaN
+1493,"10,000 metres",2008,M,3,Bronze,Micah Kogo,KEN,NaN,NaN
+1494,Marathon,2008,M,1,Gold,Sammy Wanjiru,KEN,7592.0,NaN
+1495,Marathon,2008,M,2,Silver,Jaouad Gharib,MAR,7636.0,NaN
+1496,Marathon,2008,M,3,Bronze,Tsegaye Kebede,ETH,7800.0,NaN
+1497,Long Jump,2008,M,1,Gold,Irving Saladino,PAN,NaN,8.34
+1498,Long Jump,2008,M,2,Silver,Godfrey Khotso Mokoena,RSA,NaN,8.24
+1499,Long Jump,2008,M,3,Bronze,Ibrahim Camejo,CUB,NaN,8.20
+1500,Triple Jump,2008,M,1,Gold,Nelson Ãvora,POR,NaN,17.67
+1501,Triple Jump,2008,M,2,Silver,Phillips Idowu,GBR,NaN,17.62
+1502,Triple Jump,2008,M,3,Bronze,Leevan Sands,BAH,NaN,17.59
+1503,Shot Put,2008,M,1,Gold,Tomasz Majewski,POL,NaN,21.51
+1504,Shot Put,2008,M,2,Silver,Christian Cantwell,USA,NaN,21.09
+1505,Shot Put,2008,M,3,Bronze,Dylan Armstrong,CAN,NaN,21.04
+1506,Discus Throw,2008,M,1,Gold,Gerd Kanter,EST,NaN,68.82
+1507,Discus Throw,2008,M,2,Silver,Piotr MaÅachowski,POL,NaN,67.82
+1508,Discus Throw,2008,M,3,Bronze,Virgilijus Alekna,LTU,NaN,67.79
+1509,Hammer Throw,2008,M,1,Gold,PrimoÅ¾ Kozmus,SLO,NaN,82.02
+1510,Hammer Throw,2008,M,2,Silver,Vadzim Dzeviatouski,BLR,NaN,81.61
+1511,Hammer Throw,2008,M,3,Bronze,Ivan Tsikan,BLR,NaN,81.51
+1512,Javelin Throw,2008,M,1,Gold,Andreas Thorkildsen,NOR,NaN,90.57
+1513,Javelin Throw,2008,M,2,Silver,AinÄrs Kovals,LAT,NaN,86.64
+1514,Javelin Throw,2008,M,3,Bronze,Tero PitkÃ¤mÃ¤ki,FIN,NaN,86.16
+1515,100 metres,2008,F,1,Gold,Shelly-Ann Fraser,JAM,10.78,NaN
+1516,100 metres,2008,F,2,Silver,Sherone Simpson,JAM,10.98,NaN
+1517,100 metres,2008,F,2,Silver,Kerron Stewart,JAM,10.98,NaN
+1518,200 metres,2008,F,1,Gold,Veronica Campbell-Brown,JAM,21.74,NaN
+1519,200 metres,2008,F,2,Silver,Allyson Felix,USA,21.93,NaN
+1520,200 metres,2008,F,3,Bronze,Kerron Stewart,JAM,22.0,NaN
+1521,400 metres,2008,F,1,Gold,Christine Ohuruogu,GBR,49.62,NaN
+1522,400 metres,2008,F,2,Silver,Shericka Williams,JAM,49.69,NaN
+1523,400 metres,2008,F,3,Bronze,Sanya Richards-Ross,USA,49.93,NaN
+1524,800 metres,2008,F,1,Gold,Pamela Jelimo,KEN,114.87,NaN
+1525,800 metres,2008,F,2,Silver,Janeth Jepkosgei,KEN,116.07,NaN
+1526,800 metres,2008,F,3,Bronze,Hasna Benhassi,MAR,116.72999999999999,NaN
+1527,"1,500 metres",2008,F,1,Gold,Nancy Langat,KEN,240.23,NaN
+1528,"1,500 metres",2008,F,2,Silver,Iryna Lishchynska,UKR,241.63,NaN
+1529,"1,500 metres",2008,F,3,Bronze,Nataliya Tobias,UKR,241.78,NaN
+1530,"5,000 metres",2008,F,1,Gold,Tirunesh Dibaba,ETH,941.4,NaN
+1531,"5,000 metres",2008,F,2,Silver,Meseret Defar,ETH,944.12,NaN
+1532,"5,000 metres",2008,F,3,Bronze,Sylvia Kibet,KEN,944.96,NaN
+1533,"10,000 metres",2008,F,1,Gold,Tirunesh Dibaba,ETH,NaN,NaN
+1534,"10,000 metres",2008,F,2,Silver,Shalane Flanagan,USA,NaN,NaN
+1535,"10,000 metres",2008,F,3,Bronze,Linet Masai,KEN,NaN,NaN
+1536,Marathon,2008,F,1,Gold,Constantina Tomescu,ROU,8804.0,NaN
+1537,Marathon,2008,F,2,Silver,Catherine Ndereba,KEN,8826.0,NaN
+1538,Marathon,2008,F,3,Bronze,Zhou Chunxiu,CHN,8827.0,NaN
+1539,Long Jump,2008,F,1,Gold,Maurren Maggi,BRA,NaN,7.04
+1540,Long Jump,2008,F,2,Silver,Blessing Okagbare,NGR,NaN,6.91
+1541,Long Jump,2008,F,3,Bronze,Chelsea Hammond,JAM,NaN,6.79
+1542,Triple Jump,2008,F,1,Gold,FranÃ§oise Mbango,CMR,NaN,15.39
+1543,Triple Jump,2008,F,2,Silver,Olga Rypakova,KAZ,NaN,15.11
+1544,Triple Jump,2008,F,3,Bronze,Yargelis Savigne,CUB,NaN,15.05
+1545,Shot Put,2008,F,1,Gold,Valerie Vili,NZL,NaN,20.56
+1546,Shot Put,2008,F,2,Silver,Misleydis GonzÃ¡lez,CUB,NaN,19.50
+1547,Shot Put,2008,F,3,Bronze,Gong Lijiao,CHN,NaN,19.20
+1548,Discus Throw,2008,F,1,Gold,Stephanie Brown-Trafton,USA,NaN,64.74
+1549,Discus Throw,2008,F,2,Silver,Olena Antonova,UKR,NaN,62.59
+1550,Discus Throw,2008,F,3,Bronze,Song Aimin,CHN,NaN,62.20
+1551,Hammer Throw,2008,F,1,Gold,Yipsi Moreno,CUB,NaN,75.20
+1552,Hammer Throw,2008,F,2,Silver,Zhang Wenxiu,CHN,NaN,74.32
+1553,Hammer Throw,2008,F,3,Bronze,ManuÃ¨la Montebrun,FRA,NaN,72.54
+1554,Javelin Throw,2008,F,1,Gold,Barbora Å potÃ¡kovÃ¡,CZE,NaN,71.42
+1555,Javelin Throw,2008,F,2,Silver,Christina ObergfÃ¶ll,GER,NaN,66.13
+1556,Javelin Throw,2008,F,3,Bronze,Goldie Sayers,GBR,NaN,65.75
+1557,100 metres,2012,M,1,Gold,Usain Bolt,JAM,9.63,NaN
+1558,100 metres,2012,M,2,Silver,Yohan Blake,JAM,9.75,NaN
+1559,100 metres,2012,M,3,Bronze,Justin Gatlin,USA,9.79,NaN
+1560,200 metres,2012,M,1,Gold,Usain Bolt,JAM,19.32,NaN
+1561,200 metres,2012,M,2,Silver,Yohan Blake,JAM,19.44,NaN
+1562,200 metres,2012,M,3,Bronze,Warren Weir,JAM,19.84,NaN
+1563,400 metres,2012,M,1,Gold,Kirani James,GRN,43.94,NaN
+1564,400 metres,2012,M,2,Silver,LuguelÃ­n Santos,DOM,44.46,NaN
+1565,400 metres,2012,M,3,Bronze,Lalonde Gordon,TTO,44.52,NaN
+1566,800 metres,2012,M,1,Gold,David Rudisha,KEN,100.91,NaN
+1567,800 metres,2012,M,2,Silver,Nijel Amos,BOT,101.72999999999999,NaN
+1568,800 metres,2012,M,3,Bronze,Timothy Kitum,KEN,102.53,NaN
+1569,"1,500 metres",2012,M,1,Gold,Taoufik Makhloufi,ALG,214.07999999999998,NaN
+1570,"1,500 metres",2012,M,2,Silver,Leo Manzano,USA,214.79,NaN
+1571,"1,500 metres",2012,M,3,Bronze,Abdalaati Iguider,MAR,215.13,NaN
+1572,"5,000 metres",2012,M,1,Gold,Mo Farah,GBR,821.66,NaN
+1573,"5,000 metres",2012,M,2,Silver,Dejen Gebremeskel,ETH,821.98,NaN
+1574,"5,000 metres",2012,M,3,Bronze,Thomas Longosiwa,KEN,822.36,NaN
+1575,"10,000 metres",2012,M,1,Gold,Mo Farah,GBR,NaN,NaN
+1576,"10,000 metres",2012,M,2,Silver,Galen Rupp,USA,NaN,NaN
+1577,"10,000 metres",2012,M,3,Bronze,Tariku Bekele,ETH,NaN,NaN
+1578,Marathon,2012,M,1,Gold,Stephen Kiprotich,UGA,7681.0,NaN
+1579,Marathon,2012,M,2,Silver,Abel Kirui,KEN,7707.0,NaN
+1580,Marathon,2012,M,3,Bronze,Wilson Kipsang Kiprotich,KEN,7777.0,NaN
+1581,Long Jump,2012,M,1,Gold,Greg Rutherford,GBR,NaN,8.31
+1582,Long Jump,2012,M,2,Silver,Mitch Watt,AUS,NaN,8.16
+1583,Long Jump,2012,M,3,Bronze,Will Claye,USA,NaN,8.12
+1584,Triple Jump,2012,M,1,Gold,Christian Taylor,USA,NaN,17.81
+1585,Triple Jump,2012,M,2,Silver,Will Claye,USA,NaN,17.62
+1586,Triple Jump,2012,M,3,Bronze,Fabrizio Donato,ITA,NaN,17.48
+1587,Shot Put,2012,M,1,Gold,Tomasz Majewski,POL,NaN,21.89
+1588,Shot Put,2012,M,2,Silver,David Storl,GER,NaN,21.86
+1589,Shot Put,2012,M,3,Bronze,Reese Hoffa,USA,NaN,21.23
+1590,Discus Throw,2012,M,1,Gold,Robert Harting,GER,NaN,68.27
+1591,Discus Throw,2012,M,2,Silver,Ehsan Haddadi,IRI,NaN,68.18
+1592,Discus Throw,2012,M,3,Bronze,Gerd Kanter,EST,NaN,68.03
+1593,Hammer Throw,2012,M,1,Gold,KrisztiÃ¡n Pars,HUN,NaN,80.59
+1594,Hammer Throw,2012,M,2,Silver,PrimoÅ¾ Kozmus,SLO,NaN,79.36
+1595,Hammer Throw,2012,M,3,Bronze,Koji Murofushi,JPN,NaN,78.71
+1596,Javelin Throw,2012,M,1,Gold,Keshorn Walcott,TTO,NaN,84.58
+1597,Javelin Throw,2012,M,2,Silver,Antti Ruuskanen,FIN,NaN,84.12
+1598,Javelin Throw,2012,M,3,Bronze,VÃ­tÄzslav VeselÃ½,CZE,NaN,83.34
+1599,100 metres,2012,F,1,Gold,Shelly-Ann Fraser-Pryce,JAM,10.75,NaN
+1600,100 metres,2012,F,2,Silver,Carmelita Jeter,USA,10.78,NaN
+1601,100 metres,2012,F,3,Bronze,Veronica Campbell-Brown,JAM,10.81,NaN
+1602,200 metres,2012,F,1,Gold,Allyson Felix,USA,21.88,NaN
+1603,200 metres,2012,F,2,Silver,Shelly-Ann Fraser-Pryce,JAM,22.09,NaN
+1604,200 metres,2012,F,3,Bronze,Carmelita Jeter,USA,22.14,NaN
+1605,400 metres,2012,F,1,Gold,Sanya Richards-Ross,USA,49.55,NaN
+1606,400 metres,2012,F,2,Silver,Christine Ohuruogu,GBR,49.7,NaN
+1607,400 metres,2012,F,3,Bronze,DeeDee Trotter,USA,49.72,NaN
+1608,800 metres,2012,F,1,Gold,Caster Semenya,RSA,117.22999999999999,NaN
+1609,800 metres,2012,F,2,Silver,Yekaterina Poistogova,RUS,117.53,NaN
+1610,800 metres,2012,F,3,Bronze,Pamela Jelimo,KEN,117.59,NaN
+1611,"1,500 metres",2012,F,1,Gold,Maryam Jamal,BRN,250.74,NaN
+1612,"1,500 metres",2012,F,2,Silver,Tatyana Tomashova,RUS,250.9,NaN
+1613,"1,500 metres",2012,F,3,Bronze,Abeba Aregawi,ETH,251.03,NaN
+1614,"5,000 metres",2012,F,1,Gold,Meseret Defar,ETH,904.25,NaN
+1615,"5,000 metres",2012,F,2,Silver,Vivian Cheruiyot,KEN,904.73,NaN
+1616,"5,000 metres",2012,F,3,Bronze,Tirunesh Dibaba,ETH,905.15,NaN
+1617,"10,000 metres",2012,F,1,Gold,Tirunesh Dibaba,ETH,NaN,NaN
+1618,"10,000 metres",2012,F,2,Silver,Sally Kipyego,KEN,NaN,NaN
+1619,"10,000 metres",2012,F,3,Bronze,Vivian Cheruiyot,KEN,NaN,NaN
+1620,Marathon,2012,F,1,Gold,Tiki Gelana,ETH,8587.0,NaN
+1621,Marathon,2012,F,2,Silver,Priscah Jeptoo,KEN,8592.0,NaN
+1622,Marathon,2012,F,3,Bronze,Tatyana Petrova-Arkhipova,RUS,8609.0,NaN
+1623,Long Jump,2012,F,1,Gold,Brittney Reese,USA,NaN,7.12
+1624,Long Jump,2012,F,2,Silver,Yelena Sokolova,RUS,NaN,7.07
+1625,Long Jump,2012,F,3,Bronze,Janay DeLoach,USA,NaN,6.89
+1626,Triple Jump,2012,F,1,Gold,Olga Rypakova,KAZ,NaN,14.98
+1627,Triple Jump,2012,F,2,Silver,Caterine IbargÃ¼en,COL,NaN,14.80
+1628,Triple Jump,2012,F,3,Bronze,Olha Saladukha,UKR,NaN,14.79
+1629,Shot Put,2012,F,1,Gold,Valerie Adams,NZL,NaN,20.70
+1630,Shot Put,2012,F,2,Silver,Gong Lijiao,CHN,NaN,20.22
+1631,Shot Put,2012,F,3,Bronze,Li Ling,CHN,NaN,19.63
+1632,Discus Throw,2012,F,1,Gold,Sandra PerkoviÄ,CRO,NaN,69.11
+1633,Discus Throw,2012,F,2,Silver,Li Yanfeng,CHN,NaN,67.22
+1634,Discus Throw,2012,F,3,Bronze,Yarelis Barrios,CUB,NaN,66.38
+1635,Hammer Throw,2012,F,1,Gold,Anita WÅodarczyk,POL,NaN,77.60
+1636,Hammer Throw,2012,F,2,Silver,Betty Heidler,GER,NaN,77.12
+1637,Hammer Throw,2012,F,3,Bronze,Zhang Wenxiu,CHN,NaN,76.34
+1638,Javelin Throw,2012,F,1,Gold,Barbora Å potÃ¡kovÃ¡,CZE,NaN,69.55
+1639,Javelin Throw,2012,F,2,Silver,Christina ObergfÃ¶ll,GER,NaN,65.16
+1640,Javelin Throw,2012,F,3,Bronze,Linda Stahl,GER,NaN,64.91
+1641,100 metres,2016,M,1,Gold,Usain Bolt,JAM,9.81,NaN
+1642,100 metres,2016,M,2,Silver,Justin Gatlin,USA,9.89,NaN
+1643,100 metres,2016,M,3,Bronze,Andre De Grasse,CAN,9.91,NaN
+1644,200 metres,2016,M,1,Gold,Usain Bolt,JAM,19.78,NaN
+1645,200 metres,2016,M,2,Silver,Andre De Grasse,CAN,20.02,NaN
+1646,200 metres,2016,M,3,Bronze,Christophe Lemaitre,FRA,20.12,NaN
+1647,400 metres,2016,M,1,Gold,Wayde van Niekerk,RSA,43.03,NaN
+1648,400 metres,2016,M,2,Silver,Kirani James,GRN,43.76,NaN
+1649,400 metres,2016,M,3,Bronze,LaShawn Merritt,USA,43.85,NaN
+1650,800 metres,2016,M,1,Gold,David Rudisha,KEN,102.15,NaN
+1651,800 metres,2016,M,2,Silver,Taoufik Makhloufi,ALG,102.61,NaN
+1652,800 metres,2016,M,3,Bronze,Clayton Murphy,USA,102.93,NaN
+1653,"1,500 metres",2016,M,1,Gold,Matthew Centrowitz,USA,230.0,NaN
+1654,"1,500 metres",2016,M,2,Silver,Taoufik Makhloufi,ALG,230.11,NaN
+1655,"1,500 metres",2016,M,3,Bronze,Nick Willis,NZL,230.24,NaN
+1656,"5,000 metres",2016,M,1,Gold,Mo Farah,GBR,783.3,NaN
+1657,"5,000 metres",2016,M,2,Silver,Paul Chelimo,USA,783.9,NaN
+1658,"5,000 metres",2016,M,3,Bronze,Hagos Gebrhiwet,ETH,784.35,NaN
+1659,"10,000 metres",2016,M,1,Gold,Mo Farah,GBR,NaN,NaN
+1660,"10,000 metres",2016,M,2,Silver,Paul Tanui,KEN,NaN,NaN
+1661,"10,000 metres",2016,M,3,Bronze,Tamirat Tola,ETH,NaN,NaN
+1662,Marathon,2016,M,1,Gold,Eliud Kipchoge,KEN,7724.0,NaN
+1663,Marathon,2016,M,2,Silver,Feyisa Lilesa,ETH,7794.0,NaN
+1664,Marathon,2016,M,3,Bronze,Galen Rupp,USA,7805.0,NaN
+1665,Long Jump,2016,M,1,Gold,Jeff Henderson,USA,NaN,8.38
+1666,Long Jump,2016,M,2,Silver,Luvo Manyonga,RSA,NaN,8.37
+1667,Long Jump,2016,M,3,Bronze,Greg Rutherford,GBR,NaN,8.29
+1668,Triple Jump,2016,M,1,Gold,Christian Taylor,USA,NaN,17.86
+1669,Triple Jump,2016,M,2,Silver,Will Claye,USA,NaN,17.76
+1670,Triple Jump,2016,M,3,Bronze,Dong Bin,CHN,NaN,17.58
+1671,Shot Put,2016,M,1,Gold,Ryan Crouser,USA,NaN,22.52
+1672,Shot Put,2016,M,2,Silver,Joe Kovacs,USA,NaN,21.78
+1673,Shot Put,2016,M,3,Bronze,Tom Walsh,NZL,NaN,21.36
+1674,Discus Throw,2016,M,1,Gold,Christoph Harting,GER,NaN,68.37
+1675,Discus Throw,2016,M,2,Silver,Piotr MaÅachowski,POL,NaN,67.55
+1676,Discus Throw,2016,M,3,Bronze,Daniel Jasinski,GER,NaN,67.05
+1677,Hammer Throw,2016,M,1,Gold,Dilshod Nazarov,TJK,NaN,78.68
+1678,Hammer Throw,2016,M,2,Silver,Ivan Tsikan,BLR,NaN,77.79
+1679,Hammer Throw,2016,M,3,Bronze,Wojciech Nowicki,POL,NaN,77.73
+1680,Javelin Throw,2016,M,1,Gold,Thomas RÃ¶hler,GER,NaN,90.30
+1681,Javelin Throw,2016,M,2,Silver,Julius Yego,KEN,NaN,88.24
+1682,Javelin Throw,2016,M,3,Bronze,Keshorn Walcott,TTO,NaN,85.38
+1683,100 metres,2016,F,1,Gold,Elaine Thompson,JAM,10.71,NaN
+1684,100 metres,2016,F,2,Silver,Tori Bowie,USA,10.83,NaN
+1685,100 metres,2016,F,3,Bronze,Shelly-Ann Fraser-Pryce,JAM,10.86,NaN
+1686,200 metres,2016,F,1,Gold,Elaine Thompson,JAM,21.78,NaN
+1687,200 metres,2016,F,2,Silver,Dafne Schippers,NED,21.88,NaN
+1688,200 metres,2016,F,3,Bronze,Tori Bowie,USA,22.15,NaN
+1689,400 metres,2016,F,1,Gold,Shaunae Miller-Uibo,BAH,49.44,NaN
+1690,400 metres,2016,F,2,Silver,Allyson Felix,USA,49.51,NaN
+1691,400 metres,2016,F,3,Bronze,Shericka Jackson,JAM,49.85,NaN
+1692,800 metres,2016,F,1,Gold,Caster Semenya,RSA,115.28,NaN
+1693,800 metres,2016,F,2,Silver,Francine Niyonsaba,BDI,116.49000000000001,NaN
+1694,800 metres,2016,F,3,Bronze,Margaret Wambui,KEN,116.89,NaN
+1695,"1,500 metres",2016,F,1,Gold,Faith Kibiegon,KEN,248.92,NaN
+1696,"1,500 metres",2016,F,2,Silver,Genzebe Dibaba,ETH,250.27,NaN
+1697,"1,500 metres",2016,F,3,Bronze,Jenny Simpson,USA,250.53,NaN
+1698,"5,000 metres",2016,F,1,Gold,Vivian Cheruiyot,KEN,866.17,NaN
+1699,"5,000 metres",2016,F,2,Silver,Hellen Obiri,KEN,869.77,NaN
+1700,"5,000 metres",2016,F,3,Bronze,Almaz Ayana,ETH,873.59,NaN
+1701,"10,000 metres",2016,F,1,Gold,Almaz Ayana,ETH,NaN,NaN
+1702,"10,000 metres",2016,F,2,Silver,Vivian Cheruiyot,KEN,NaN,NaN
+1703,"10,000 metres",2016,F,3,Bronze,Tirunesh Dibaba,ETH,NaN,NaN
+1704,Marathon,2016,F,1,Gold,Jemima Sumgong,KEN,8644.0,NaN
+1705,Marathon,2016,F,2,Silver,Eunice Kirwa,BRN,8653.0,NaN
+1706,Marathon,2016,F,3,Bronze,Mare Dibaba,ETH,8670.0,NaN
+1707,Long Jump,2016,F,1,Gold,Tianna Bartoletta,USA,NaN,7.17
+1708,Long Jump,2016,F,2,Silver,Brittney Reese,USA,NaN,7.15
+1709,Long Jump,2016,F,3,Bronze,Ivana Å panoviÄ,SRB,NaN,7.08
+1710,Triple Jump,2016,F,1,Gold,Caterine IbargÃ¼en,COL,NaN,15.17
+1711,Triple Jump,2016,F,2,Silver,Yulimar Rojas,VEN,NaN,14.98
+1712,Triple Jump,2016,F,3,Bronze,Olga Rypakova,KAZ,NaN,14.74
+1713,Shot Put,2016,F,1,Gold,Michelle Carter,USA,NaN,20.63
+1714,Shot Put,2016,F,2,Silver,Valerie Adams,NZL,NaN,20.42
+1715,Shot Put,2016,F,3,Bronze,Anita MÃ¡rton,HUN,NaN,19.87
+1716,Discus Throw,2016,F,1,Gold,Sandra PerkoviÄ,CRO,NaN,69.21
+1717,Discus Throw,2016,F,2,Silver,MÃ©lina Robert-Michon,FRA,NaN,66.73
+1718,Discus Throw,2016,F,3,Bronze,Denia Caballero,CUB,NaN,65.34
+1719,Hammer Throw,2016,F,1,Gold,Anita WÅodarczyk,POL,NaN,82.29
+1720,Hammer Throw,2016,F,2,Silver,Zhang Wenxiu,CHN,NaN,76.75
+1721,Hammer Throw,2016,F,3,Bronze,Sophie Hitchon,GBR,NaN,74.54
+1722,Javelin Throw,2016,F,1,Gold,Sara Kolak,CRO,NaN,66.18
+1723,Javelin Throw,2016,F,2,Silver,Sunette Viljoen,RSA,NaN,64.92
+1724,Javelin Throw,2016,F,3,Bronze,Barbora Å potÃ¡kovÃ¡,CZE,NaN,64.80
+1725,100 metres,1916,M,1,Gold,NaN,NaN,NaN,NaN
+1726,100 metres,1916,F,1,Gold,NaN,NaN,NaN,NaN
+1727,200 metres,1916,M,1,Gold,NaN,NaN,NaN,NaN
+1728,200 metres,1916,F,1,Gold,NaN,NaN,NaN,NaN
+1729,400 metres,1916,M,1,Gold,NaN,NaN,NaN,NaN
+1730,400 metres,1916,F,1,Gold,NaN,NaN,NaN,NaN
+1731,800 metres,1916,M,1,Gold,NaN,NaN,NaN,NaN
+1732,800 metres,1916,F,1,Gold,NaN,NaN,NaN,NaN
+1733,"1,500 metres",1916,M,1,Gold,NaN,NaN,NaN,NaN
+1734,"1,500 metres",1916,F,1,Gold,NaN,NaN,NaN,NaN
+1735,"5,000 metres",1916,M,1,Gold,NaN,NaN,NaN,NaN
+1736,"5,000 metres",1916,F,1,Gold,NaN,NaN,NaN,NaN
+1737,"10,000 metres",1916,M,1,Gold,NaN,NaN,NaN,NaN
+1738,"10,000 metres",1916,F,1,Gold,NaN,NaN,NaN,NaN
+1739,Marathon,1916,M,1,Gold,NaN,NaN,NaN,NaN
+1740,Marathon,1916,F,1,Gold,NaN,NaN,NaN,NaN
+1741,Long Jump,1916,M,1,Gold,NaN,NaN,NaN,NaN
+1742,Long Jump,1916,F,1,Gold,NaN,NaN,NaN,NaN
+1743,Triple Jump,1916,M,1,Gold,NaN,NaN,NaN,NaN
+1744,Triple Jump,1916,F,1,Gold,NaN,NaN,NaN,NaN
+1745,Shot Put,1916,M,1,Gold,NaN,NaN,NaN,NaN
+1746,Shot Put,1916,F,1,Gold,NaN,NaN,NaN,NaN
+1747,Discus Throw,1916,M,1,Gold,NaN,NaN,NaN,NaN
+1748,Discus Throw,1916,F,1,Gold,NaN,NaN,NaN,NaN
+1749,Hammer Throw,1916,M,1,Gold,NaN,NaN,NaN,NaN
+1750,Hammer Throw,1916,F,1,Gold,NaN,NaN,NaN,NaN
+1751,Javelin Throw,1916,M,1,Gold,NaN,NaN,NaN,NaN
+1752,Javelin Throw,1916,F,1,Gold,NaN,NaN,NaN,NaN
+1753,100 metres,1940,M,1,Gold,NaN,NaN,NaN,NaN
+1754,100 metres,1940,F,1,Gold,NaN,NaN,NaN,NaN
+1755,200 metres,1940,M,1,Gold,NaN,NaN,NaN,NaN
+1756,200 metres,1940,F,1,Gold,NaN,NaN,NaN,NaN
+1757,400 metres,1940,M,1,Gold,NaN,NaN,NaN,NaN
+1758,400 metres,1940,F,1,Gold,NaN,NaN,NaN,NaN
+1759,800 metres,1940,M,1,Gold,NaN,NaN,NaN,NaN
+1760,800 metres,1940,F,1,Gold,NaN,NaN,NaN,NaN
+1761,"1,500 metres",1940,M,1,Gold,NaN,NaN,NaN,NaN
+1762,"1,500 metres",1940,F,1,Gold,NaN,NaN,NaN,NaN
+1763,"5,000 metres",1940,M,1,Gold,NaN,NaN,NaN,NaN
+1764,"5,000 metres",1940,F,1,Gold,NaN,NaN,NaN,NaN
+1765,"10,000 metres",1940,M,1,Gold,NaN,NaN,NaN,NaN
+1766,"10,000 metres",1940,F,1,Gold,NaN,NaN,NaN,NaN
+1767,Marathon,1940,M,1,Gold,NaN,NaN,NaN,NaN
+1768,Marathon,1940,F,1,Gold,NaN,NaN,NaN,NaN
+1769,Long Jump,1940,M,1,Gold,NaN,NaN,NaN,NaN
+1770,Long Jump,1940,F,1,Gold,NaN,NaN,NaN,NaN
+1771,Triple Jump,1940,M,1,Gold,NaN,NaN,NaN,NaN
+1772,Triple Jump,1940,F,1,Gold,NaN,NaN,NaN,NaN
+1773,Shot Put,1940,M,1,Gold,NaN,NaN,NaN,NaN
+1774,Shot Put,1940,F,1,Gold,NaN,NaN,NaN,NaN
+1775,Discus Throw,1940,M,1,Gold,NaN,NaN,NaN,NaN
+1776,Discus Throw,1940,F,1,Gold,NaN,NaN,NaN,NaN
+1777,Hammer Throw,1940,M,1,Gold,NaN,NaN,NaN,NaN
+1778,Hammer Throw,1940,F,1,Gold,NaN,NaN,NaN,NaN
+1779,Javelin Throw,1940,M,1,Gold,NaN,NaN,NaN,NaN
+1780,Javelin Throw,1940,F,1,Gold,NaN,NaN,NaN,NaN
+1781,100 metres,1944,M,1,Gold,NaN,NaN,NaN,NaN
+1782,100 metres,1944,F,1,Gold,NaN,NaN,NaN,NaN
+1783,200 metres,1944,M,1,Gold,NaN,NaN,NaN,NaN
+1784,200 metres,1944,F,1,Gold,NaN,NaN,NaN,NaN
+1785,400 metres,1944,M,1,Gold,NaN,NaN,NaN,NaN
+1786,400 metres,1944,F,1,Gold,NaN,NaN,NaN,NaN
+1787,800 metres,1944,M,1,Gold,NaN,NaN,NaN,NaN
+1788,800 metres,1944,F,1,Gold,NaN,NaN,NaN,NaN
+1789,"1,500 metres",1944,M,1,Gold,NaN,NaN,NaN,NaN
+1790,"1,500 metres",1944,F,1,Gold,NaN,NaN,NaN,NaN
+1791,"5,000 metres",1944,M,1,Gold,NaN,NaN,NaN,NaN
+1792,"5,000 metres",1944,F,1,Gold,NaN,NaN,NaN,NaN
+1793,"10,000 metres",1944,M,1,Gold,NaN,NaN,NaN,NaN
+1794,"10,000 metres",1944,F,1,Gold,NaN,NaN,NaN,NaN
+1795,Marathon,1944,M,1,Gold,NaN,NaN,NaN,NaN
+1796,Marathon,1944,F,1,Gold,NaN,NaN,NaN,NaN
+1797,Long Jump,1944,M,1,Gold,NaN,NaN,NaN,NaN
+1798,Long Jump,1944,F,1,Gold,NaN,NaN,NaN,NaN
+1799,Triple Jump,1944,M,1,Gold,NaN,NaN,NaN,NaN
+1800,Triple Jump,1944,F,1,Gold,NaN,NaN,NaN,NaN
+1801,Shot Put,1944,M,1,Gold,NaN,NaN,NaN,NaN
+1802,Shot Put,1944,F,1,Gold,NaN,NaN,NaN,NaN
+1803,Discus Throw,1944,M,1,Gold,NaN,NaN,NaN,NaN
+1804,Discus Throw,1944,F,1,Gold,NaN,NaN,NaN,NaN
+1805,Hammer Throw,1944,M,1,Gold,NaN,NaN,NaN,NaN
+1806,Hammer Throw,1944,F,1,Gold,NaN,NaN,NaN,NaN
+1807,Javelin Throw,1944,M,1,Gold,NaN,NaN,NaN,NaN
+1808,Javelin Throw,1944,F,1,Gold,NaN,NaN,NaN,NaN
