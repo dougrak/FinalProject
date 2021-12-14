@@ -1,0 +1,14 @@
+Hello! Welcome to my webscraping, data wrangling, and regression modeling project!
+
+The programs are meant to be run in the following order:
+1. ScrapeOlympediaAthletics.py
+---> creates: Olympics_Athletics_Results.csv
+
+2. CleanUp.py
+---> creates: Olympics_Athletics_Results_cleaned.csv
+
+3. Regression.py 
+
+The scraping programe takes some time to run, so I suggest skipping it and using
+the output file, Olympics_Athletics_Results.csv, as provided. You can also skip
+CleanUp.py as I included its output.
